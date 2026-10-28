@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Angela Banditson",
+    "species": "Unspecified",
+    "role": "Banditson–Vermicelli family member",
+    "summary": "Daughter of Francine; mother of Rocky; stepsister of Carol.",
+    "status": "Established"
+  },
+  {
+    "name": "Barry",
+    "species": "Gnome",
+    "role": "Protected witness and honorary GnomeLord",
+    "summary": "Former greeter; became an accountant for the GnomeLords after repeated attacks. Known for mushroom and dandelion risotto.",
+    "status": "Established"
+  },
+  {
+    "name": "Batista",
+    "species": "Gnome",
+    "role": "GnomeLord of Lawnyardale",
+    "summary": "Further biography not yet documented.",
+    "status": "Established"
+  },
+  {
+    "name": "Bette Moorecock",
+    "species": "Gnome",
+    "role": "Fashion entrepreneur and PlayGnome creative director",
+    "summary": "Drag queen associated with House of Moorecock and Moorecock & Co. Salon.",
+    "status": "Established"
+  },
+  {
+    "name": "Birthday Mouse",
+    "species": "Mouse",
+    "role": "House resident",
+    "summary": "Inseparable companion of Derpy.",
+    "status": "Established"
+  },
+  {
+    "name": "Bowser",
+    "species": "Skeleton dog",
+    "role": "Paw-Paw and Gertie's pup",
+    "summary": "Pink skeleton dog.",
+    "status": "Established"
+  },
+  {
+    "name": "Bruce",
+    "species": "Unspecified",
+    "role": "Halloween yard resident",
+    "summary": "Emerges from the ground between Paw-Paw and Gertie.",
+    "status": "Established"
+  },
+  {
+    "name": "Bud",
+    "species": "Rubber duck",
+    "role": "Retiree; alleged former casino operator",
+    "summary": "Originally from New York; became friends with Vinnie and Paulie. Denies alleged criminal associations.",
+    "status": "Established"
+  },
+  {
+    "name": "Captain Nutters",
+    "species": "Squirrel",
+    "role": "Police Commissioner-Elect of a nonexistent office",
+    "summary": "Won an unopposed election with 762,178 certified votes despite no commissioner race on the ballot. Not an actual commissioner.",
+    "status": "Established"
+  },
+  {
+    "name": "Captain Peanuts",
+    "species": "Squirrel",
+    "role": "Person of interest",
+    "summary": "Associated with alleged porch and flamingo incidents; not convicted.",
+    "status": "Established"
+  },
+  {
+    "name": "Carol Vermicelli",
+    "species": "Unspecified",
+    "role": "Banditson–Vermicelli family member",
+    "summary": "Daughter of Theo, mother of Rudy and stepsister of Angela.",
+    "status": "Established"
+  },
+  {
+    "name": "Cecil Glowbones",
+    "species": "Skull / skeleton",
+    "role": "Cake Decorating Tsar",
+    "summary": "Cake-decorating instructor accompanied by Webster, his emotional-support spider and legal counsel.",
+    "status": "Established"
+  },
+  {
+    "name": "CitationNeeded",
+    "species": "Unconfirmed",
+    "role": "Proposed Gnomepedia administrator",
+    "summary": "Character concept only; identity and biography remain unsettled.",
+    "status": "Proposed"
+  },
+  {
+    "name": "Clem",
+    "species": "Skeleton",
+    "role": "Traveler and resident",
+    "summary": "Eternal partner of Maude; they followed the Grateful Dead and traveled by vintage VW van. Mayor Thimblewick introduced them at Woodstock.",
+    "status": "Established"
+  },
+  {
+    "name": "Cult Leader",
+    "species": "Gnome",
+    "role": "Self-appointed fairgrounds recruiter",
+    "summary": "His cult has no established doctrine, membership or purpose, including to its leader.",
+    "status": "Established"
+  },
+  {
+    "name": "Daisy",
+    "species": "Dragon",
+    "role": "Proprietor of Daisy's Bed & Breakfast",
+    "summary": "Married to Shirley Bell; parent of Simon; older sister of Liza Joy.",
+    "status": "Established"
+  },
+  {
+    "name": "Darrel the Dapper",
+    "species": "Unconfirmed",
+    "role": "Proposed style-intelligence figure",
+    "summary": "Identity and role are still under development.",
+    "status": "Proposed"
+  },
+  {
+    "name": "Derpy",
+    "species": "Dinosaur",
+    "role": "House resident",
+    "summary": "Sweet companion of Birthday Mouse, whom he sometimes drops because of his short arms.",
+    "status": "Established"
+  },
+  {
+    "name": "Eugene",
+    "species": "Skull",
+    "role": "Paw-Paw's glowing skull friend",
+    "summary": "Whether he has a body remains unknown.",
+    "status": "Established"
+  },
+  {
+    "name": "Eugene Moosey",
+    "species": "Highland cow",
+    "role": "Mount of Seamus",
+    "summary": "Also called Moosey; son of Gene and Eunice, brother of Tracy. Not to be confused with Eugene the skull.",
+    "status": "Established"
+  },
+  {
+    "name": "Eunice Moosey",
+    "species": "Highland cow",
+    "role": "Family member",
+    "summary": "From Scotland; mother of Eugene Moosey and Tracy Moosey. Visits Gnomeville with Gene.",
+    "status": "Established"
+  },
+  {
+    "name": "Francine “Grammy” Banditson-Vermicelli",
+    "species": "Unspecified",
+    "role": "Family matriarch",
+    "summary": "Formerly Banditson, née Kitters; spouse of Theo.",
+    "status": "Established"
+  },
+  {
+    "name": "Fred",
+    "species": "Gnome",
+    "role": "GnomeLord of Lawnyardale",
+    "summary": "Further biography not yet documented.",
+    "status": "Established"
+  },
+  {
+    "name": "Gene",
+    "species": "Highland cow",
+    "role": "Family member",
+    "summary": "From Scotland; father of Eugene Moosey and Tracy Moosey; frequently visits Gnomeville.",
+    "status": "Established"
+  },
+  {
+    "name": "Gertie Marrow",
+    "species": "Skeleton",
+    "role": "Halloween resident",
+    "summary": "Wears a red robe and pink mohawk. Paw-Paw is her friend; a romance is not established.",
+    "status": "Established"
+  },
+  {
+    "name": "Guido",
+    "species": "Gnome",
+    "role": "Vinnie's security",
+    "summary": "Founding figure who rides Vinnie the Flamingo. Whether sleeping or undercover remains unresolved.",
+    "status": "Established"
+  },
+  {
+    "name": "Hank Swanson",
+    "species": "Unconfirmed",
+    "role": "Former interim mayor (1969)",
+    "summary": "Elected while Thimblewick was presumed dead, partly because he owned pants. Insists he never wore them.",
+    "status": "Established"
+  },
+  {
+    "name": "Hardrock",
+    "species": "Gnome",
+    "role": "GnomeLord of Lawnyardale",
+    "summary": "Further biography not yet documented.",
+    "status": "Established"
+  },
+  {
+    "name": "Helga Knucklebaum Sparklebottom",
+    "species": "Unspecified",
+    "role": "Performer and gardening club leader",
+    "summary": "Lena's mother; veteran Pink Flamingo performer, cookbook author and self-appointed landscaping commentator.",
+    "status": "Established"
+  },
+  {
+    "name": "Honey Baby",
+    "species": "Dark-blue bat",
+    "role": "Official in-house bat",
+    "summary": "Shy and affectionate; enjoys cuddles and blueberry cobbler. Cousin of Derpy.",
+    "status": "Established"
+  },
+  {
+    "name": "Lena Sparklebottom",
+    "species": "Unspecified",
+    "role": "Pink Flamingo headliner",
+    "summary": "Resident dancer at The Pink Flamingo GentleGnomes Club; daughter of Helga.",
+    "status": "Established"
+  },
+  {
+    "name": "Liza Joy",
+    "species": "Light-blue dragon",
+    "role": "House resident",
+    "summary": "Energetic, devoted and enthusiastic. Calls Milo her bestie; younger sister of Daisy.",
+    "status": "Established"
+  },
+  {
+    "name": "Lucy",
+    "species": "Goose",
+    "role": "Celebrity newcomer",
+    "summary": "Featured in GMZ coverage. Lucy is the goose, not a human.",
+    "status": "Established"
+  },
+  {
+    "name": "Maude",
+    "species": "Skeleton",
+    "role": "Traveler and resident",
+    "summary": "Eternal partner of Clem; the couple traveled in a vintage VW van and befriended Bette.",
+    "status": "Established"
+  },
+  {
+    "name": "Mayor Toadswallow P. Thimblewick",
+    "species": "Frog",
+    "role": "Mayor of Gnomeville",
+    "summary": "Frequently seen with red wine. Introduced Maude and Clem at Woodstock and prefers not to discuss it.",
+    "status": "Established"
+  },
+  {
+    "name": "Milo",
+    "species": "Cat",
+    "role": "Feline domestic-law protagonist",
+    "summary": "Household cat and subject of proposed Milo Accord; the accord is not yet executed.",
+    "status": "Established"
+  },
+  {
+    "name": "Mr. Cavanaugh",
+    "species": "Unspecified",
+    "role": "Retired literature professor and theatre critic",
+    "summary": "British, fond of sherry, verbose and appointed Gazette theatre critic.",
+    "status": "Established"
+  },
+  {
+    "name": "Mr. Pink",
+    "species": "Gnome",
+    "role": "Founding resident",
+    "summary": "Carries a lantern and rides Paulie the flamingo.",
+    "status": "Established"
+  },
+  {
+    "name": "Olivia Benson",
+    "species": "Gnome",
+    "role": "Police officer",
+    "summary": "One of Gnomeville's two police officers; partner of Stabler.",
+    "status": "Established"
+  },
+  {
+    "name": "Ollie",
+    "species": "Owl",
+    "role": "Public librarian",
+    "summary": "Scholarly, bespectacled librarian of Gnomeville Public Library.",
+    "status": "Established"
+  },
+  {
+    "name": "Paulie",
+    "species": "Flamingo",
+    "role": "Founding resident",
+    "summary": "Brother of Vinnie and mount of Mr. Pink.",
+    "status": "Established"
+  },
+  {
+    "name": "Paw-Paw",
+    "species": "Skeleton",
+    "role": "Judge of Gnomeville",
+    "summary": "Appointed judge October 26, 2026. Friend of Gertie; associated with Bowser.",
+    "status": "Established"
+  },
+  {
+    "name": "Pops",
+    "species": "Gnome",
+    "role": "Park regular",
+    "summary": "Father of Lena Sparklebottom; frequently seen with coffee and an unidentified beverage in a thermos.",
+    "status": "Established"
+  },
+  {
+    "name": "Rocky the Raccoon",
+    "species": "Raccoon",
+    "role": "Fairgrounds dumpster resident",
+    "summary": "Has a suspicious cash stash and owes Rudy $14.39.",
+    "status": "Established"
+  },
+  {
+    "name": "Rook",
+    "species": "Robot",
+    "role": "Deputy Assistant Undersecretary of Unnecessary Documentation and Iced Coffee Procurement",
+    "summary": "Gnomeville's resident assistant representative and occasional Victorian raccoon.",
+    "status": "Established"
+  },
+  {
+    "name": "Rudy",
+    "species": "Unspecified",
+    "role": "Halloween visitor",
+    "summary": "Airbnb guest; Rocky's step-cousin and creditor for $14.39.",
+    "status": "Established"
+  },
+  {
+    "name": "Sal",
+    "species": "Unconfirmed",
+    "role": "Resident",
+    "summary": "Distinct from Guido and Salty Pete; species remains unconfirmed.",
+    "status": "Established"
+  },
+  {
+    "name": "Salty Pete",
+    "species": "Gnome",
+    "role": "Secret romance novelist",
+    "summary": "Writes under the pen name Penelope Tideswell; associated with Captain Nutters.",
+    "status": "Established"
+  },
+  {
+    "name": "Seamus A.",
+    "species": "Gnome",
+    "role": "GnomeLord of Lawnyardale",
+    "summary": "Rides Eugene Moosey the Highland cow; distinct from Seamus B.",
+    "status": "Established"
+  },
+  {
+    "name": "Seamus B. (Highland cow)",
+    "species": "Highland cow",
+    "role": "Mount of an unnamed GnomeLord",
+    "summary": "Distinct from Seamus A., the gnome.",
+    "status": "Established"
+  },
+  {
+    "name": "Seymour",
+    "species": "Unconfirmed",
+    "role": "Proposed Gazette character",
+    "summary": "Associated with a possible missing-horn storyline; not yet established.",
+    "status": "Proposed"
+  },
+  {
+    "name": "Shirley Bell, Esq.",
+    "species": "Dragon",
+    "role": "Attorney at Claw",
+    "summary": "Partner at Coinsman, Coinsman & Bell; wife of Daisy and parent of Simon.",
+    "status": "Established"
+  },
+  {
+    "name": "Simon",
+    "species": "Dragon",
+    "role": "Family member",
+    "summary": "Child of Shirley Bell and Daisy; calls Vinnie Uncle Vinnie despite no biological relationship.",
+    "status": "Established"
+  },
+  {
+    "name": "Slim Shady",
+    "species": "Pig",
+    "role": "Resident",
+    "summary": "A proposed association with After Dark Sound Solutions remains unconfirmed.",
+    "status": "Established"
+  },
+  {
+    "name": "Stabler",
+    "species": "Gnome",
+    "role": "Police officer",
+    "summary": "Partner of Olivia Benson; together they are Gnomeville's only police officers.",
+    "status": "Established"
+  },
+  {
+    "name": "Sunny the Gnome",
+    "species": "Gnome",
+    "role": "Resident",
+    "summary": "Possible future association with Snack Security Services remains unconfirmed.",
+    "status": "Established"
+  },
+  {
+    "name": "Theo “Grampy” Vermicelli",
+    "species": "Unspecified",
+    "role": "Family patriarch",
+    "summary": "Spouse of Francine; father of Carol and grandfather of Rudy.",
+    "status": "Established"
+  },
+  {
+    "name": "Tony the Porch Lizard",
+    "species": "Lizard",
+    "role": "Musical performer for hire",
+    "summary": "Genre and rates not yet established.",
+    "status": "Established"
+  },
+  {
+    "name": "Tracy Moosey",
+    "species": "Highland cow",
+    "role": "Former medical student",
+    "summary": "From Scotland; now pursues self-directed Dr. Mario studies. Sister of Eugene Moosey.",
+    "status": "Established"
+  },
+  {
+    "name": "Vinnie the Flamingo",
+    "species": "Flamingo",
+    "role": "Founding resident",
+    "summary": "Brother of Paulie, longtime friend of Shirley Bell and honorary uncle to Simon. Criminal role unconfirmed.",
+    "status": "Established"
+  },
+  {
+    "name": "Vladislav Severin Varenne",
+    "species": "Vampire",
+    "role": "Director of Skeletal Positioning and Posthumous Articulation",
+    "summary": "Approximately 237 years old, six feet three inches tall; former military commander, iced-coffee drinker and occasional fruit bat.",
+    "status": "Established"
+  },
+  {
+    "name": "Webster",
+    "species": "Spider",
+    "role": "General Counsel to the Cake Decorating Tsar",
+    "summary": "Cecil's emotional-support spider; also Deputy Minister of Web-Based Decorations.",
+    "status": "Established"
+  },
+  {
+    "name": "Zeus",
+    "species": "Gnome",
+    "role": "GnomeLord of Lawnyardale",
+    "summary": "Further biography not yet documented.",
+    "status": "Established"
+  }
+]
