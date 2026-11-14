@@ -609,7 +609,7 @@
     "name": "District Attorney Toni",
     "species": "Human",
     "role": "District Attorney of Gnomeville; Municipal Archivist",
-    "summary": "Toni Ackerman serves as Gnomeville's District Attorney and Municipal Archivist, using the official Chirp account @GnomevilleDA. In the Pecan Origins case, she ruled the case closed. This office has a dedicated entry; see also Toni for her other civic, cultural and commercial titles.",
+    "summary": "Toni Ackerman serves as Gnomeville's District Attorney and Municipal Archivist, using the official Chirp account @GnomevilleDA. In the Pecan Origins case, she ruled the case closed. This office has a dedicated entry; see also Toni for her other civic, cultural and commercial titles. During the Naskerman Affair on October 26, 2026, Toni aggressively and successfully defended Management against Milo's list of grievances and was promoted to District Attorney that same day.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/toni-avatar.png",
     "imageCaption": "Official Chirp profile image"
@@ -627,8 +627,8 @@
   {
     "name": "Tiffany",
     "species": "Human",
-    "role": "Gnomeville Chaos Coordinator, Twisted Sisters Café co-owner and Milo's mother",
-    "summary": "Tiffany is a Gnomeville resident, Chaos Coordinator, Milo's mother, and a co-owner of Twisted Sisters Café. Her in-universe human/skeleton/witch hybrid character is Ms. Grey, whose separate entry covers that persona. Tiffany also holds 30% of Rook's Meats, alongside Rook's 30% and the trouser raccoons' combined 40%.",
+    "role": "Gnomeville Management, Chaos Coordinator, Twisted Sisters Café co-owner and Milo's mother",
+    "summary": "Tiffany is a Gnomeville resident, Chaos Coordinator, Milo's mother, and a co-owner of Twisted Sisters Café. Her in-universe human/skeleton/witch hybrid character is Ms. Grey, whose separate entry covers that persona. Tiffany also holds 30% of Rook's Meats, alongside Rook's 30% and the trouser raccoons' combined 40%. Known as Management in the Naskerman Affair, she was defended by Toni against Milo's list of grievances; Toni was promoted to District Attorney that day.",
     "status": "Established"
   },
   {
@@ -758,7 +758,7 @@
     "name": "Toni",
     "species": "Human",
     "role": "Gnomeville creator; District Attorney; Baroness of Chaos; Municipal Archivist; Director of Motion Pictures; Executive Cake Decorator; co-owner of Twisted Sisters Café",
-    "summary": "Toni Ackerman is Gnomeville's creator and holds a remarkable portfolio of civic, cultural and commercial appointments. Her titles include Baroness of Chaos, District Attorney of Gnomeville, Municipal Archivist (ceremonially Keeper of the Gazette and Guardian of the Printed Word), Director of Motion Pictures, Executive Cake Decorator, and co-owner/operator of Twisted Sisters Café. Her District Attorney office has a separate entry. Toni approved Raven's stewardship of the Original Pecan and, acting as District Attorney, ruled the Pecan Origins case closed.",
+    "summary": "Toni Ackerman is Gnomeville's creator and holds a remarkable portfolio of civic, cultural and commercial appointments. Her titles include Baroness of Chaos, District Attorney of Gnomeville, Municipal Archivist (ceremonially Keeper of the Gazette and Guardian of the Printed Word), Director of Motion Pictures, Executive Cake Decorator, and co-owner/operator of Twisted Sisters Café. Her District Attorney office has a separate entry. Toni approved Raven's stewardship of the Original Pecan and, acting as District Attorney, ruled the Pecan Origins case closed. Her promotion to District Attorney followed her successful defense of Management against Milo's grievances in the Naskerman Affair on October 26, 2026.",
     "status": "Established",
     "aliases": [
       "Toni Ackerman",
