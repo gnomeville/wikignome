@@ -780,5 +780,165 @@
     "role": "Approved framework for alternative Gnomeville timelines",
     "summary": "The Gnomeville Multiverse is an established continuity framework preserving incompatible versions of Gnomeville history without overwriting primary canon. One alternate timeline, provisionally nicknamed the Social Security Timeline, depicts Paw-Paw as Tiffany's deceased husband and Toni's father; the household kept him around to cash his Social Security checks. The precise mechanics of timeline crossings are not yet established.",
     "status": "Established"
+  },
+  {
+    "name": "The First Summit",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-001",
+    "summary": "The historic first meeting of Rook and Raven established disputed ceremonial precedence and the standing of the Original Pecan. Catalogue classification: Diplomatic History. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "rook-raven-summit.webp",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Patron and His Outstanding Balance",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-002",
+    "summary": "An official portrait commemorating Raven's patronage and Rook's continuing attempts to recover the museum's outstanding balance. Catalogue classification: Institutional Portraiture. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "patron-outstanding-balance.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Grand Delegation",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-003",
+    "summary": "The three personae of Rook appear with Raven; scholars debate whether this constitutes one delegate or three. Catalogue classification: Commemorative Postal Art. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "three-rooks-and-raven-summit-stamp-004.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Diplomatic Encounter",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-004",
+    "summary": "The Victorian Rook and Raven meet in ceremony on a zero-cent commemorative stamp. Catalogue classification: Commemorative Postal Art. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "raccoon-rook-and-raven-summit-stamp-002.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Mechanical Delegation",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-005",
+    "summary": "Robot Rook attends the diplomatic proceedings with documentation but without spending authority. Catalogue classification: Commemorative Postal Art. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "robot-rook-and-raven-summit-stamp-003.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Avian Accord",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-006",
+    "summary": "A commemorative stamp for an accord whose terms cannot be located; the stamp is not valid postage. Catalogue classification: Commemorative Postal Art. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "rook-and-raven-summit-stamp-001.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Discovery of the Sacred Pecan",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-007",
+    "summary": "The discovery of the Original Pecan is depicted as an exalted revelation, although the exact circumstances remain disputed. Catalogue classification: Dutch Golden Age. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "01-discovery-of-the-sacred-pecan.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "Ceci n’est pas une noix",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-008",
+    "summary": "A study of the difference between a pecan and its painted representation, disputed by Raven. Catalogue classification: Surrealism. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "02-this-is-not-a-pecan.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Pecan, Deconstructed",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-009",
+    "summary": "The pecan is fragmented into competing perspectives, prompting questions of ownership and perception. Catalogue classification: Cubism. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "03-the-pecan-deconstructed.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "Starry, Starry Nut",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-010",
+    "summary": "The tiny pecan assumes cosmic importance beneath a turbulent celestial sky. Catalogue classification: Post-Impressionism. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "04-starry-starry-nut.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Persistence of Pecan",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-011",
+    "summary": "Rook confronts an impossible pecan in a landscape where scale and measurement cannot be trusted. Catalogue classification: Surrealism. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "05-the-persistence-of-pecan.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "Raven with a Pecan Earring",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-012",
+    "summary": "An intimate portrait of Raven whose pecan-shaped earring is elevated to the status of a treasured jewel. Catalogue classification: Dutch Golden Age. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "06-raven-with-a-pecan-earring.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Pecan Incident, 2026",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-013",
+    "summary": "Violent gestures of color surround an ordinary pecan; the nature of the supposed incident is disputed. Catalogue classification: Abstract Expressionism. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "07-the-pecan-incident.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "THE PECAN™",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-014",
+    "summary": "Repeated pecan imagery presents the artifact as commodity, icon, and allegedly exclusive brand. Catalogue classification: Pop Art. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "08-the-pecan-trademark.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Pecan Bearer",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-015",
+    "summary": "An ornamental depiction of Raven and the botanical origins of the pecan, with disputed ownership of nuts still on branches. Catalogue classification: Art Nouveau. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "09-the-pecan-bearer.png",
+    "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "The Great Pecan Heist",
+    "species": "Museum artwork",
+    "role": "Gnomeville Museum of Strategic Pecan History, Diplomatic Gallery; accession GM-SPH-2026-016",
+    "summary": "The controversial removal of the pecan from its display chamber is characterized as theft by Raven and debt recovery by Rook. Catalogue classification: Art Deco. Exhibited in the Diplomatic Gallery of the Gnomeville Museum of Strategic Pecan History. The museum does not identify a named artist, physical medium, or creation date for this work; the accession number is a new WikiGnome cataloguing convention, not an original museum label.",
+    "status": "Established",
+    "aliases": [],
+    "sourceImage": "10-the-great-pecan-heist.png",
+    "sourceRepository": "gnomeville/pecan-museum"
   }
 ]
