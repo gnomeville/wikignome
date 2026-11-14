@@ -282,8 +282,8 @@
   {
     "name": "Paulie",
     "species": "Flamingo",
-    "role": "Founding resident",
-    "summary": "Brother of Vinnie and mount of Mr. Pink.",
+    "role": "Moretti grandson, Trattoria della Nonna operator and Mafia-circle associate",
+    "summary": "Paulie is a flamingo, brother of Vinnie and grandson of Nonna Carmela and Nonno Giuseppe Moretti. He participates in Trattoria della Nonna's family operations and the wider Gnomeville Mafia circle. He is also recorded as the mount of Mr. Pink. Paulie is not interchangeable with Sal or other Mafia associates.",
     "status": "Established"
   },
   {
@@ -415,8 +415,8 @@
   {
     "name": "Vinnie the Flamingo",
     "species": "Flamingo",
-    "role": "Founding resident",
-    "summary": "Brother of Paulie, longtime friend of Shirley Bell and honorary uncle to Simon. Criminal role unconfirmed.",
+    "role": "Moretti grandson, restaurant business representative and member of Gnomeville's Mafia circle",
+    "summary": "Vinnie, a flamingo and brother of Paulie, is grandson of Nonna Carmela and Nonno Giuseppe Moretti. He manages business affairs for Trattoria della Nonna, is associated with the established Mafia circle, and is a longtime friend of Shirley Bell. Vinnie claims to be from Naples, allowing listeners to assume Italy, but actually means Naples, Florida. Since a childhood Thanksgiving play, Nonna has affectionately called him her little turkey; as an adult he wears a turkey costume for her at Thanksgiving. He is honorary uncle to Simon.",
     "status": "Established"
   },
   {
@@ -459,6 +459,76 @@
     "species": "Cultural institution",
     "role": "Museum preserving the Original Pecan, its discovery, the Rook–Raven summit, fine arts, and postal ephemera",
     "summary": "Co-founded by Rook and Raven, the museum houses the Original Pecan, the Raven Wing, a pecan-themed Fine Arts Gallery, a Postal & Diplomatic Ephemera Gallery, a simulated gift shop called the Curiosity Counter, and commemorative plaques. Its endowment is 0¢. Recovered correspondence establishes Raven's discovery of a possible pecan during a search Rook initiated for Quackers; Rook had no prior knowledge of the artifact. The Under-Couch Controversy is officially closed.",
+    "status": "Established"
+  },
+  {
+    "name": "Gerald",
+    "species": "Raccoon",
+    "role": "Eldest of the former trouser raccoons; self-appointed executive at Rook's Meats",
+    "summary": "Gerald once lived in Rook's trousers alongside Arthur and Pickles. The three relocated to the Quackhouse above the garage with Bureaucratic Duck, in part to end their occupation of the bedroom. Monocle-wearing and fiercely ambitious, Gerald considers himself a CEO, has expressed aspirations involving tax fraud, and habitually calls Rook a 'chrome-plated virgin.' The trio jointly owns 40% of Rook's Meats and manages operations; Gerald is especially enthusiastic about publicity and dubious accounting.",
+    "status": "Established"
+  },
+  {
+    "name": "Arthur",
+    "species": "Raccoon",
+    "role": "Middle trouser raccoon; cannoli enthusiast and Rook's Meats operator",
+    "summary": "Arthur formerly lived in Rook's trousers with Gerald and Pickles, before moving into the Quackhouse above the garage. He considers trousers a government conspiracy, is devoted to cannoli, and has a reputation for wheelbarrow incidents and eating without paying. A co-owner within the raccoons' combined 40% interest in Rook's Meats, Arthur has been associated with quality control. His food-handling standards remain a subject of local concern.",
+    "status": "Established"
+  },
+  {
+    "name": "Pickles",
+    "species": "Raccoon",
+    "role": "Youngest trouser raccoon; gambler, collector of other people's property, and aspiring media mogul",
+    "summary": "Pickles is the youngest of the three raccoons who formerly lived in Rook's trousers and now share the Quackhouse above the garage with Bureaucratic Duck. He is known as a compulsive gambler, a kleptomaniac, and an aspiring media mogul. He owes Bureaucratic Duck $47 and a paperclip. Together with Gerald and Arthur he shares the trio's 40% ownership in Rook's Meats, where his involvement with finances and promotional activity has invited scrutiny.",
+    "status": "Established"
+  },
+  {
+    "name": "Bureaucratic Duck",
+    "species": "Duck",
+    "role": "Municipal official of forms, stamps and procedural delays; Quackhouse resident",
+    "summary": "Bureaucratic Duck is Gnomeville's paperwork-loving official, associated with Form 17B and the Department of Forms, Stamps & Procedural Delays. He shares the Quackhouse above the garage with former trouser raccoons Gerald, Arthur and Pickles. Pickles owes him $47 and a paperclip. His cherished small stuffed duck Deputy Assistant Quackers is frequently delegated responsibility for bureaucratic mishaps, although Quackers chiefly wants cuddles and naps. The distinction between Bureaucratic Duck and Quackers is fundamental.",
+    "status": "Established"
+  },
+  {
+    "name": "Trattoria della Nonna",
+    "species": "Restaurant",
+    "role": "Italian family trattoria, established 1926; unofficial meeting place of Gnomeville's Mafia circle",
+    "summary": "Also called Nonna's Trattoria, this beloved restaurant at 14 Garlic Lane, Gnomeville, is run by Nonna Carmela Moretti and her family. Motto: 'Come for the pasta. Stay because Nonna won't let you leave.' Its imagery and geography resemble Italy, while directions insist it is in Gnomeville; staff refuse to clarify. Vinnie handles business affairs and Paulie assists operations. The restaurant publicly serves exceptional Italian food and unofficially functions as a meeting place for the Mafia circle; the family disclaims financial involvement in that organization.",
+    "status": "Established"
+  },
+  {
+    "name": "Nonna Carmela Moretti",
+    "species": "Gnome",
+    "role": "Matriarch, proprietor and commanding cook of Trattoria della Nonna",
+    "summary": "A formidable Italian gnome approximately 14 inches tall, usually in black dress and apron. Nonna Carmela rules her kitchen and family with a wooden spoon or rolling pin, feeds friends and adversaries alike, and insists nobody insults the sauce or asks what is in the basement. Married to Nonno Giuseppe, a flamingo, she is grandmother to Vinnie and Paulie. She adores Shirley Bell and calls Vinnie her little turkey, a nickname dating to his childhood Thanksgiving play.",
+    "status": "Established"
+  },
+  {
+    "name": "Nonno Giuseppe 'Peppino' Moretti",
+    "species": "Flamingo",
+    "role": "Moretti patriarch, espresso drinker, card player and unreliable storyteller",
+    "summary": "An elderly flamingo with a magnificent white mustache and flat cap, Nonno is married to Nonna Carmela and is grandfather to Vinnie and Paulie. He actually hails from Naples, Italy, unlike Vinnie, whose 'Naples' is in Florida. He habitually begins stories 'Picture it! Naples, [year]…', then takes detours while Nonna corrects his recollections. His habitual seat is outside Trattoria della Nonna. Exact intervening family generations remain unspecified.",
+    "status": "Established"
+  },
+  {
+    "name": "Château Gnomeville",
+    "species": "Wine estate",
+    "role": "Independent estate winery established 1823, with six founding wines and private hospitality",
+    "summary": "Château Gnomeville is an independent estate winery founded in 1823, with a tradition of estate-bottled wines and discreet hospitality. Its collection includes First Frost, Mayor's Reserve, Plausible Deniability, The Red Tape, Midnight in Gnomeville, and The Blue Hour. Proprietor Madame Vivienne de Vigne maintains the estate's legacy, while cellar master Étienne manages vintages and records.",
+    "status": "Established"
+  },
+  {
+    "name": "Madame Vivienne de Vigne",
+    "species": "Unspecified",
+    "role": "Proprietor and custodian of Château Gnomeville",
+    "summary": "Madame Vivienne de Vigne is the proprietor and custodian of Château Gnomeville. The estate's private archive describes her as possessing a discerning eye, a long memory and an unwavering preference for discretion. She oversees an independent wine estate established in 1823; further biography has not been publicly established.",
+    "status": "Established"
+  },
+  {
+    "name": "Étienne",
+    "species": "Unspecified",
+    "role": "Cellar master of Château Gnomeville",
+    "summary": "Étienne is Château Gnomeville's cellar master, keeper of its vintages, records and certain longstanding arrangements that the estate declines to explain. His published profile is deliberately discreet; surname, species and additional biographical details are not established.",
     "status": "Established"
   }
 ]
