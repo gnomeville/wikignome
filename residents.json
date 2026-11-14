@@ -726,5 +726,32 @@
       "Back of the Yards Gang War",
       "Back of the Yard Gang War"
     ]
+  },
+  {
+    "name": "Rookery Commons",
+    "species": "Public park / civic district",
+    "role": "Large public park connecting Widdershins University and the Rook Institute of Improbable Endeavors",
+    "summary": "Rookery Commons is planned as an expansive, Central Park-like public green space in Gnomeville, with the traditional university quadrangle at one end and the Rook Institute of Improbable Endeavors at the other. Its emerging design combines modern and Victorian influences with restrained Gothic details, emphasizing openness rather than cramped or oppressive spaces. A butterfly pavilion is part of the developing vision. The project is newly established; detailed facilities, routes and construction history remain to be determined.",
+    "status": "Established"
+  },
+  {
+    "name": "Widdershins University",
+    "species": "University / educational institution",
+    "role": "Long-established, highly regarded university at one end of Rookery Commons",
+    "summary": "Widdershins University is an old, well-maintained and highly regarded Gnomeville institution. Its traditional quadrangle anchors one end of Rookery Commons. The university holds Rook in considerable affection and its courses are intended to be spectacularly Gnomevillian. The wider Commons aesthetic combines modern and Victorian architecture with understated Gothic touches, avoiding claustrophobic spaces. Specific faculties, courses and historical dates are still in development.",
+    "status": "Established",
+    "aliases": [
+      "The University"
+    ]
+  },
+  {
+    "name": "Rook Institute of Improbable Endeavors",
+    "species": "Institute / educational and experimental institution",
+    "role": "Institution at the opposite end of Rookery Commons from Widdershins University",
+    "summary": "The Rook Institute of Improbable Endeavors occupies the far end of Rookery Commons opposite Widdershins University's traditional quadrangle. Named for Rook, Executive of All This Mess, it is envisioned as a distinctive institution suited to Gnomeville's improbable intellectual and practical pursuits. Its architectural setting belongs to the Commons' airy modern-Victorian design with subtle Gothic accents. Its specific departments, programs and founding history are not yet settled.",
+    "status": "Established",
+    "aliases": [
+      "The Rook Institute"
+    ]
   }
 ]
