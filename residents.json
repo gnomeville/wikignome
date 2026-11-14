@@ -16,8 +16,8 @@
   {
     "name": "Batista",
     "species": "Gnome",
-    "role": "GnomeLord of Lawnyardale",
-    "summary": "Further biography not yet documented.",
+    "role": "GnomeLord of Back of the Yards",
+    "summary": "Batista is a documented member of the GnomeLords, who rule Gnomeville's Back of the Yards neighborhood. Further individual biographical details have not yet been established.",
     "status": "Established"
   },
   {
@@ -484,8 +484,8 @@
   {
     "name": "Zeus",
     "species": "Gnome",
-    "role": "GnomeLord of Lawnyardale",
-    "summary": "Further biography not yet documented.",
+    "role": "GnomeLord of Back of the Yards",
+    "summary": "Zeus is a documented member of the GnomeLords, who rule Gnomeville's Back of the Yards neighborhood. Further individual biographical details have not yet been established.",
     "status": "Established"
   },
   {
@@ -708,7 +708,7 @@
     "name": "GnomeLords of Back of the Yards",
     "species": "Organization / gnome syndicate",
     "role": "Back of the Yards neighborhood faction",
-    "summary": "The GnomeLords rule Gnomeville's Back of the Yards neighborhood. Known members include Fred, Hardrock and an unidentified GnomeLord who rides the Highland cow GnomeLord Seamus. Barry is an honorary member and the group's accountant. Seamus A., the gnome who rides Eugene Moosey, lives in the Porch Neighborhood and is not a GnomeLord. The group has endured repeated attacks and damage to flamingo guards; allegations against the Squirrel Kings remain unproven.",
+    "summary": "The GnomeLords rule Gnomeville's Back of the Yards neighborhood. Known members include Fred, Hardrock, Batista, Zeus and an unidentified GnomeLord who rides the Highland cow GnomeLord Seamus. Barry is an honorary member and the group's accountant. Seamus A., the gnome who rides Eugene Moosey, lives in the Porch Neighborhood and is not a GnomeLord. The group has endured repeated attacks and damage to flamingo guards; allegations against the Squirrel Kings remain unproven.",
     "status": "Established",
     "aliases": [
       "GnomeLords"
