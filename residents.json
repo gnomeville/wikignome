@@ -366,20 +366,24 @@
     "name": "Seamus A.",
     "species": "Gnome",
     "role": "GnomeLord of Back of the Yards",
-    "summary": "Seamus is a gnome and documented member of the GnomeLords of Back of the Yards. He rides Eugene Moosey, a Highland cow. He is distinct from Seamus B., a Highland cow associated with another GnomeLord. Further personal history remains undocumented.",
+    "summary": "Seamus is a gnome and member of the GnomeLords of Back of the Yards. He rides Eugene Moosey, a Highland cow. He is distinct from GnomeLord Seamus, the Highland cow ridden by an unidentified GnomeLord.",
     "status": "Established",
     "aliases": [
-      "Seamus the GnomeLord",
+      "Seamus",
       "Seamus A.",
-      "Seamus"
+      "Seamus the Gnome"
     ]
   },
   {
-    "name": "Seamus B. (Highland cow)",
+    "name": "GnomeLord Seamus",
     "species": "Highland cow",
-    "role": "Mount of an unnamed GnomeLord",
-    "summary": "Distinct from Seamus A., the gnome.",
-    "status": "Established"
+    "role": "Highland cow ridden by an unidentified GnomeLord",
+    "summary": "GnomeLord Seamus is a Highland cow who serves as the mount of a mysterious, as-yet unidentified GnomeLord of Back of the Yards. Despite his name, Seamus is the cow, not the rider. He is distinct from Seamus the gnome, who rides Eugene Moosey.",
+    "status": "Established",
+    "aliases": [
+      "Seamus B. (Highland cow)",
+      "Seamus B."
+    ]
   },
   {
     "name": "Seymour",
@@ -704,7 +708,7 @@
     "name": "GnomeLords of Back of the Yards",
     "species": "Organization / gnome syndicate",
     "role": "Back of the Yards neighborhood faction",
-    "summary": "The GnomeLords of Back of the Yards are a neighborhood gang or syndicate. Their documented roster consists of Seamus the gnome, Fred and Hardrock, plus Barry, an honorary member and the group's accountant. Seamus rides Eugene Moosey the Highland cow; Seamus B. is a different Highland cow and is not established as a gnome member. The group has endured repeated attacks and incidents involving damaged flamingo guards. The Squirrel Kings are suspected in some accounts, but responsibility for specific incidents remains unproven.",
+    "summary": "The GnomeLords of Back of the Yards are a neighborhood gang or syndicate. Known gnome members include Seamus the gnome, Fred, Hardrock, and an unidentified GnomeLord who rides the Highland cow GnomeLord Seamus. Barry is an honorary member and the group's accountant. Seamus the gnome rides Eugene Moosey, a different Highland cow. The group has endured repeated attacks and damage to flamingo guards; allegations against the Squirrel Kings remain unproven.",
     "status": "Established",
     "aliases": [
       "GnomeLords",
