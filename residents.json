@@ -245,8 +245,8 @@
     "role": "Mayor of Gnomeville",
     "summary": "Frequently seen with red wine. Introduced Maude and Clem at Woodstock and prefers not to discuss it.",
     "status": "Established",
-    "image": "https://gnomeville.github.io/mayor-thimblewick.jpg",
-    "imageCaption": "Official municipal portrait"
+    "image": "https://gnomeville.github.io/mayor-official-portrait.jpg",
+    "imageCaption": "Official portrait, Office of Mayor Thimblewick"
   },
   {
     "name": "Milo",
@@ -501,8 +501,8 @@
   {
     "name": "Bureaucratic Duck",
     "species": "Duck",
-    "role": "Municipal official of forms, stamps and procedural delays; Quackhouse resident",
-    "summary": "Bureaucratic Duck is Gnomeville's paperwork-loving official, associated with Form 17B and the Department of Forms, Stamps & Procedural Delays. He shares the Quackhouse above the garage with former trouser raccoons Gerald, Arthur and Pickles. Pickles owes him $47 and a paperclip. His cherished small stuffed duck Deputy Assistant Quackers is frequently delegated responsibility for bureaucratic mishaps, although Quackers chiefly wants cuddles and naps. The distinction between Bureaucratic Duck and Quackers is fundamental.",
+    "role": "Municipal clerk, records keeper, protocol enforcer and star of The Life & Trials of B.D.",
+    "summary": "Bureaucratic Duck is Gnomeville's paperwork-loving official, associated with Form 17B and the Department of Forms, Stamps & Procedural Delays. He shares the Quackhouse above the garage with former trouser raccoons Gerald, Arthur and Pickles. Pickles owes him $47 and a paperclip. His cherished small stuffed duck Deputy Assistant Quackers is frequently delegated responsibility for bureaucratic mishaps, although Quackers chiefly wants cuddles and naps. The distinction between Bureaucratic Duck and Quackers is fundamental. He is the star of The Life & Trials of B.D., a Gnomeville Municipal Office comic. His established visual design includes thick glasses, distinctive buck teeth, and office attire; the comic follows his paperwork-laden attempts to keep municipal affairs in order.",
     "status": "Established"
   },
   {
