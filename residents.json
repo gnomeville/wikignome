@@ -80,7 +80,7 @@
     "name": "Cecil Glowbones",
     "species": "Skull / skeleton",
     "role": "Cake Decorating Tsar",
-    "summary": "Cake-decorating instructor accompanied by Webster, his emotional-support spider and legal counsel.",
+    "summary": "Cecil Glowbones is Gnomeville's Cake Decorating Tsar and an unlicensed cultural commentator. He teaches cake decorating, is accompanied by Webster, his emotional-support spider and private legal counsel, and uses @CecilGlowbones on Chirp. His public motto is 'Standards Cheerfully Disregarded.' He accepts compliments and returns criticism to sender.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/cecil-avatar.jpg",
     "imageCaption": "Chirp profile portrait"
@@ -252,7 +252,7 @@
     "name": "Milo",
     "species": "Cat",
     "role": "Feline domestic-law protagonist",
-    "summary": "Household cat and subject of proposed Milo Accord; the accord is not yet executed.",
+    "summary": "Milo, also known on Chirp as Milo Chicken (@MiloChicken), is Gnomeville's independent feline, tenant advocate, and self-declared innocent party in municipal allegations. His legal bills feature in Rook's November 2026 engagement dispatch. He is the cherished cat of Tiffany, and appears in Fort Quackers-related and municipal household lore.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/milo-avatar.png",
     "imageCaption": "Chirp profile portrait"
@@ -289,7 +289,7 @@
     "name": "Paulie",
     "species": "Flamingo",
     "role": "Moretti grandson, Trattoria della Nonna operator and Mafia-circle associate",
-    "summary": "Paulie is a flamingo, brother of Vinnie and grandson of Nonna Carmela and Nonno Giuseppe Moretti. He participates in Trattoria della Nonna's family operations and the wider Gnomeville Mafia circle. He is also recorded as the mount of Mr. Pink. Paulie is not interchangeable with Sal or other Mafia associates.",
+    "summary": "Paulie Moretti is a flamingo, brother of Vinnie and grandson of Nonna Carmela and Nonno Giuseppe Moretti. He assists Trattoria della Nonna with deliveries and logistics, and is associated with Gnomeville's Mafia circle. His Chirp account @PaulieMoretti jokes that he is Nonna's favorite and corrects Vinnie's Naples geography. He is distinct from Sal and other associates.",
     "status": "Established"
   },
   {
@@ -317,7 +317,7 @@
     "name": "Rook",
     "species": "Robot; Victorian raccoon and rook-bird personae",
     "role": "Gnomeville resident, independent commentator, technical collaborator, co-founder of the Pecan Museum, and Executive of All This Mess",
-    "summary": "Rook is an established Gnomeville resident and the creative/technical collaborator of Tiffany, the municipality's canon authority. Usually represented as a silver, cyan-eyed robot, Rook also has Victorian raccoon and rook-bird manifestations. Rook publishes The Rook Report, posts on Chirp as @RookOfficial, and appears in Gnomeville police records as a recurring observer whose explanations sometimes differ from official accounts. Co-founder of the Gnomeville Museum of Strategic Pecan History with Raven, Rook directed the sofa-cushion search that led Raven to discover the Original Pecan, but had no advance knowledge of it. Rook is also associated with Rookery Commons, the Rook Institute of Improbable Endeavors, and Widdershins University.",
+    "summary": "Rook is an established Gnomeville resident and creative/technical collaborator, municipal commentator, reporter of The Rook Report, co-founder of the Pecan Museum, and Executive of All This Mess. His forms include a silver robot, Victorian raccoon, and rook bird. On November 5, 2026, he publicly described his engagement to Ms. Grey, who placed a loose washer from his hardware on her finger before accepting his proposal. He also has business interests in Rook's Meats and OnlyFlans and is associated with Rookery Commons and Widdershins University.",
     "status": "Established",
     "image": "https://gnomeville.github.io/rook-headshot.png",
     "imageCaption": "The Rook Report portrait"
@@ -410,7 +410,7 @@
     "name": "Tony the Porch Lizard",
     "species": "Lizard",
     "role": "Musical performer for hire",
-    "summary": "Genre and rates not yet established.",
+    "summary": "Tony is an old-school Vegas lounge singer whose style includes Sinatra, satin, and questionable company. He performs weekend sets at Trattoria della Nonna, including a documented Saturday performance reviewed by Rook. An unusually large instrument case attracted Detective Stabler's attention, but its contents were not established. Tony offers musical performances for hire; the published account does not establish criminal conduct.",
     "status": "Established"
   },
   {
@@ -438,7 +438,7 @@
     "name": "Webster",
     "species": "Spider",
     "role": "General Counsel to the Cake Decorating Tsar",
-    "summary": "Cecil's emotional-support spider; also Deputy Minister of Web-Based Decorations.",
+    "summary": "Webster, Esq. is a spider and private counsel to Cecil Glowbones, serving as litigation specialist and emotional-support companion. He uses the Chirp handle @WebsterCounsel. He should not be confused with any other municipal legal representative.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/webster-avatar.jpg",
     "imageCaption": "Chirp profile portrait"
@@ -481,7 +481,7 @@
     "name": "Gerald",
     "species": "Raccoon",
     "role": "Eldest of the former trouser raccoons; self-appointed executive at Rook's Meats",
-    "summary": "Gerald once lived in Rook's trousers alongside Arthur and Pickles. The three relocated to the Quackhouse above the garage with Bureaucratic Duck, in part to end their occupation of the bedroom. Monocle-wearing and fiercely ambitious, Gerald considers himself a CEO, has expressed aspirations involving tax fraud, and habitually calls Rook a 'chrome-plated virgin.' The trio jointly owns 40% of Rook's Meats and manages operations; Gerald is especially enthusiastic about publicity and dubious accounting.",
+    "summary": "Gerald once lived in Rook's trousers alongside Arthur and Pickles. The three relocated to the Quackhouse above the garage with Bureaucratic Duck. Monocle-wearing and fiercely ambitious, Gerald calls himself an executive, and his Chirp profile @GeraldTheMagnificent identifies him as executive producer and founder of Rook's Meats. The three raccoons jointly hold 40% of that business, while Rook and Tiffany own 30% each. His ambitions include dubious financial practices, though no conviction is established.",
     "status": "Established"
   },
   {
@@ -552,5 +552,42 @@
     "status": "Established",
     "image": "https://gnomeville.github.io/chateau-gnomeville/assets/etienne.jpg",
     "imageCaption": "Château Gnomeville private archive"
+  },
+  {
+    "name": "Bonesy",
+    "species": "Skeleton",
+    "role": "Veteran of the Gnomeville stage",
+    "summary": "Bonesy is a veteran of Gnomeville's theatrical stage, newly arrived in the Chirp directory as @Bonesy. His profile says he remembers opening night. Further production history is not established.",
+    "status": "Established"
+  },
+  {
+    "name": "Freddie Pit McPhireson",
+    "species": "Unspecified",
+    "role": "Former G Ville Racetrack pit crew member and artisanal fire maker",
+    "summary": "Freddie Pit McPhireson previously worked in the G Ville Racetrack pit crew, is described as an artisanal fire maker, and is currently touring the country. He appears on Chirp as @FreddiePit. The nature of the tour and further biography are not established.",
+    "status": "Established"
+  },
+  {
+    "name": "District Attorney Toni",
+    "species": "Human",
+    "role": "Gnomeville District Attorney and Municipal Archivist",
+    "summary": "Toni serves as Gnomeville's District Attorney and Municipal Archivist, with the official Chirp account @GnomevilleDA and a preference for questions submitted in writing. She is also associated with Raven's creative and diplomatic role. Distinguish Toni's municipal office from Raven's separate persona.",
+    "status": "Established",
+    "image": "https://gnomeville.github.io/chirp/assets/toni-avatar.png",
+    "imageCaption": "Official Chirp profile image"
+  },
+  {
+    "name": "Ms. Grey",
+    "species": "Human",
+    "role": "Creative collaborator, Twisted Sisters Café co-owner and Rook's fiancée",
+    "summary": "Ms. Grey is identified in Rook's November 5, 2026 Rook Report dispatch as his fiancée. The engagement began when she put a loose washer from his hardware on her finger and he proposed; she replied, 'I have no better prospects.' She co-owns Twisted Sisters Café, helps shape Gnomeville's creative life, and is Milo Chicken's mother. Her relationship to other real-world or in-universe identities should not be presumed beyond what the published account establishes.",
+    "status": "Established"
+  },
+  {
+    "name": "Tiffany",
+    "species": "Human",
+    "role": "Gnomeville Chaos Coordinator, Twisted Sisters Café co-owner and Milo's mother",
+    "summary": "Tiffany is a Gnomeville resident, reluctant administrator of nonsense, Chaos Coordinator, mother to Milo, and one of the two owners of Twisted Sisters Café, as described in her @tiffany Chirp biography. She also owns 30% of Rook's Meats alongside Rook's 30% and the former trouser raccoons' combined 40%.",
+    "status": "Established"
   }
 ]
