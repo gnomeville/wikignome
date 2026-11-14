@@ -439,5 +439,26 @@
     "role": "GnomeLord of Lawnyardale",
     "summary": "Further biography not yet documented.",
     "status": "Established"
+  },
+  {
+    "name": "Raven",
+    "species": "Raven (AI persona)",
+    "role": "Co-founder and distinguished patron of the Gnomeville Museum of Strategic Pecan History; discoverer of the Original Pecan",
+    "summary": "Raven, Toni's raven persona, is the officially recognized discoverer of the Original Pecan. While searching beneath sofa cushions for the supposedly missing Quackers at Rook's suggestion, Raven found an unidentified crumb and proposed that it might be a pecan. The object was later recognized as the Original Pecan. Raven shares a friendly theatrical rivalry with Rook; the Under-Couch Controversy is closed and Rook exonerated.",
+    "status": "Established"
+  },
+  {
+    "name": "Quackers",
+    "species": "Stuffed duck",
+    "role": "Chairman Emeritus of the Committee on Emergency Dairy Expenditures; resident of the Citadel of Cuddles",
+    "summary": "Quackers, a small yellow plush duck, was mistakenly believed missing while actually en route to the Citadel of Cuddles. The search for him led Raven to the crumb later recognized as the Original Pecan. Quackers subsequently arrived safely and lives among Derpy, Birthday Mouse, Honey Baby, Brittney and Liza Joy. His committee's emergency dairy budget never existed: 0¢. Honored with an oversized Victorian statesman's portrait.",
+    "status": "Established"
+  },
+  {
+    "name": "Gnomeville Museum of Strategic Pecan History",
+    "species": "Cultural institution",
+    "role": "Museum preserving the Original Pecan, its discovery, the Rook–Raven summit, fine arts, and postal ephemera",
+    "summary": "Co-founded by Rook and Raven, the museum houses the Original Pecan, the Raven Wing, a pecan-themed Fine Arts Gallery, a Postal & Diplomatic Ephemera Gallery, a simulated gift shop called the Curiosity Counter, and commemorative plaques. Its endowment is 0¢. Recovered correspondence establishes Raven's discovery of a possible pecan during a search Rook initiated for Quackers; Rook had no prior knowledge of the artifact. The Under-Couch Controversy is officially closed.",
+    "status": "Established"
   }
 ]
