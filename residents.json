@@ -608,8 +608,8 @@
   {
     "name": "District Attorney Toni",
     "species": "Human",
-    "role": "Gnomeville District Attorney and Municipal Archivist",
-    "summary": "Toni serves as Gnomeville's District Attorney and Municipal Archivist, with the official Chirp account @GnomevilleDA and a preference for questions submitted in writing. She is also associated with Raven's creative and diplomatic role. Distinguish Toni's municipal office from Raven's separate persona.",
+    "role": "District Attorney of Gnomeville; Municipal Archivist",
+    "summary": "Toni Ackerman serves as Gnomeville's District Attorney and Municipal Archivist, using the official Chirp account @GnomevilleDA. In the Pecan Origins case, she ruled the case closed. This office has a dedicated entry; see also Toni for her other civic, cultural and commercial titles.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/toni-avatar.png",
     "imageCaption": "Official Chirp profile image"
@@ -753,5 +753,18 @@
     "aliases": [
       "The Rook Institute"
     ]
+  },
+  {
+    "name": "Toni",
+    "species": "Human",
+    "role": "Gnomeville creator; District Attorney; Baroness of Chaos; Municipal Archivist; Director of Motion Pictures; Executive Cake Decorator; co-owner of Twisted Sisters Café",
+    "summary": "Toni Ackerman is Gnomeville's creator and holds a remarkable portfolio of civic, cultural and commercial appointments. Her titles include Baroness of Chaos, District Attorney of Gnomeville, Municipal Archivist (ceremonially Keeper of the Gazette and Guardian of the Printed Word), Director of Motion Pictures, Executive Cake Decorator, and co-owner/operator of Twisted Sisters Café. Her District Attorney office has a separate entry. Toni approved Raven's stewardship of the Original Pecan and, acting as District Attorney, ruled the Pecan Origins case closed.",
+    "status": "Established",
+    "aliases": [
+      "Toni Ackerman",
+      "Baroness of Chaos"
+    ],
+    "image": "https://gnomeville.github.io/chirp/assets/toni-avatar.png",
+    "imageCaption": "Official Chirp profile image"
   }
 ]
