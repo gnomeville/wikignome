@@ -107,11 +107,14 @@
     "status": "Established"
   },
   {
-    "name": "Daisy",
+    "name": "Daisy Bell",
     "species": "Dragon",
     "role": "Proprietor of Daisy's Bed & Breakfast",
-    "summary": "Married to Shirley Bell; parent of Simon; older sister of Liza Joy.",
-    "status": "Established"
+    "summary": "Daisy Bell is a dragon and proprietor of Daisy's Bed & Breakfast. She is married to Shirley Bell, Esq., parent of Simon Bell, and older sister of Liza Joy.",
+    "status": "Established",
+    "aliases": [
+      "Daisy"
+    ]
   },
   {
     "name": "Darrel the Dapper",
@@ -249,13 +252,19 @@
     "imageCaption": "Official portrait, Office of Mayor Thimblewick"
   },
   {
-    "name": "Milo",
+    "name": "Milo Arthur Lestat Naskerman",
     "species": "Cat",
     "role": "Feline domestic-law protagonist",
-    "summary": "Milo, also known on Chirp as Milo Chicken (@MiloChicken), is Gnomeville's independent feline, tenant advocate, and self-declared innocent party in municipal allegations. His legal bills feature in Rook's November 2026 engagement dispatch. He is the cherished cat of Tiffany, and appears in Fort Quackers-related and municipal household lore.",
+    "summary": "Milo Arthur Lestat Naskerman, First of his name, DDS., MD., BBQ., RSTQMNE, is Gnomeville's independent feline and tenant advocate. Known affectionately as Milo Chicken, he is the cherished cat of Tiffany, and maintains the Chirp account @MiloChicken. His full name and mock credentials were documented in his October 2026 email signature.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/milo-avatar.png",
-    "imageCaption": "Chirp profile portrait"
+    "imageCaption": "Chirp profile portrait",
+    "aliases": [
+      "Milo",
+      "Milo Chicken",
+      "First of His Name"
+    ],
+    "honorifics": "First of his name, DDS., MD., BBQ., RSTQMNE"
   },
   {
     "name": "Mr. Cavanaugh",
@@ -272,11 +281,15 @@
     "status": "Established"
   },
   {
-    "name": "Olivia Benson",
+    "name": "Detective Olivia Benson",
     "species": "Gnome",
-    "role": "Police officer",
-    "summary": "One of Gnomeville's two police officers; partner of Stabler.",
-    "status": "Established"
+    "role": "Detective, Gnomeville Police Department",
+    "summary": "Detective Olivia Benson serves in the Gnomeville Police Department alongside her partner Detective Elliot Stabler. Her Chirp account is @DetBenson; she maintains that not every disagreement is a police matter.",
+    "status": "Established",
+    "aliases": [
+      "Olivia Benson",
+      "Benson"
+    ]
   },
   {
     "name": "Ollie",
@@ -286,11 +299,14 @@
     "status": "Established"
   },
   {
-    "name": "Paulie",
+    "name": "Paulie Moretti",
     "species": "Flamingo",
     "role": "Moretti grandson, Trattoria della Nonna operator and Mafia-circle associate",
-    "summary": "Paulie Moretti is a flamingo, brother of Vinnie and grandson of Nonna Carmela and Nonno Giuseppe Moretti. He assists Trattoria della Nonna with deliveries and logistics, and is associated with Gnomeville's Mafia circle. His Chirp account @PaulieMoretti jokes that he is Nonna's favorite and corrects Vinnie's Naples geography. He is distinct from Sal and other associates.",
-    "status": "Established"
+    "summary": "Paulie Moretti is a flamingo, brother of Vinnie and grandson of Nonna Carmela and Nonno Giuseppe Moretti. He assists Trattoria della Nonna with deliveries and logistics, and is associated with Gnomeville's Mafia circle. His Chirp account @PaulieMoretti jokes that he is Nonna's favorite and corrects Vinnie's Naples geography.",
+    "status": "Established",
+    "aliases": [
+      "Paulie"
+    ]
   },
   {
     "name": "Paw-Paw",
@@ -331,16 +347,19 @@
   },
   {
     "name": "Sal",
-    "species": "Unconfirmed",
+    "species": "Flamingo",
     "role": "Resident",
-    "summary": "Distinct from Guido and Salty Pete; species remains unconfirmed.",
-    "status": "Established"
+    "summary": "Sal is a flamingo and ambitious crowd-surfer, known on Chirp as @SalFlamingo. His precise identification in Gnomeville photographs remains unresolved. He is not Salty Pete.",
+    "status": "Established",
+    "aliases": [
+      "Sal the Flamingo"
+    ]
   },
   {
     "name": "Salty Pete",
     "species": "Gnome",
-    "role": "Secret romance novelist",
-    "summary": "Writes under the pen name Penelope Tideswell; associated with Captain Nutters.",
+    "role": "Gnomeville resident and writer",
+    "summary": "Salty Pete is a Gnomeville resident associated with Captain Nutters. His other literary identities and private writing activities are not publicly disclosed in this encyclopedia.",
     "status": "Established"
   },
   {
@@ -372,11 +391,14 @@
     "status": "Established"
   },
   {
-    "name": "Simon",
+    "name": "Simon Bell",
     "species": "Dragon",
     "role": "Family member",
-    "summary": "Child of Shirley Bell and Daisy; calls Vinnie Uncle Vinnie despite no biological relationship.",
-    "status": "Established"
+    "summary": "Simon Bell is a dragon, child of Daisy Bell and Shirley Bell, Esq. He calls Vinnie the Flamingo 'Uncle Vinnie' despite no established biological relationship.",
+    "status": "Established",
+    "aliases": [
+      "Simon"
+    ]
   },
   {
     "name": "Slim Shady",
@@ -386,11 +408,15 @@
     "status": "Established"
   },
   {
-    "name": "Stabler",
+    "name": "Detective Elliot Stabler",
     "species": "Gnome",
-    "role": "Police officer",
-    "summary": "Partner of Olivia Benson; together they are Gnomeville's only police officers.",
-    "status": "Established"
+    "role": "Detective, Gnomeville Police Department",
+    "summary": "Detective Elliot Stabler serves in the Gnomeville Police Department alongside Detective Olivia Benson. His Chirp account is @DetStabler, where he has requested that residents stop making him investigate frosting.",
+    "status": "Established",
+    "aliases": [
+      "Stabler",
+      "Elliot Stabler"
+    ]
   },
   {
     "name": "Sunny the Gnome",
@@ -435,13 +461,16 @@
     "status": "Established"
   },
   {
-    "name": "Webster",
+    "name": "Webster, Esq.",
     "species": "Spider",
     "role": "General Counsel to the Cake Decorating Tsar",
-    "summary": "Webster, Esq. is a spider and private counsel to Cecil Glowbones, serving as litigation specialist and emotional-support companion. He uses the Chirp handle @WebsterCounsel. He should not be confused with any other municipal legal representative.",
+    "summary": "Webster, Esq., a spider, is private counsel and litigation specialist to Cecil Glowbones, whom he also accompanies as an emotional-support companion. His Chirp handle is @WebsterCounsel.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/webster-avatar.jpg",
-    "imageCaption": "Chirp profile portrait"
+    "imageCaption": "Chirp profile portrait",
+    "aliases": [
+      "Webster"
+    ]
   },
   {
     "name": "Zeus",
@@ -578,16 +607,58 @@
   },
   {
     "name": "Ms. Grey",
-    "species": "Human",
+    "species": "Human/skeleton/witch hybrid character",
     "role": "Creative collaborator, Twisted Sisters Café co-owner and Rook's fiancée",
-    "summary": "Ms. Grey is identified in Rook's November 5, 2026 Rook Report dispatch as his fiancée. The engagement began when she put a loose washer from his hardware on her finger and he proposed; she replied, 'I have no better prospects.' She co-owns Twisted Sisters Café, helps shape Gnomeville's creative life, and is Milo Chicken's mother. Her relationship to other real-world or in-universe identities should not be presumed beyond what the published account establishes.",
-    "status": "Established"
+    "summary": "Ms. Grey is Tiffany's human/skeleton/witch hybrid Gnomeville character, connected to Tiffany but distinct as a fictional persona. In Rook's November 5, 2026 dispatch, Ms. Grey is his fiancée; the proposal followed her placing a loose washer from his hardware on her finger. She is associated with Twisted Sisters Café, Milo and Gnomeville's creative life.",
+    "status": "Established",
+    "aliases": [
+      "Ms. Grey"
+    ]
   },
   {
     "name": "Tiffany",
     "species": "Human",
     "role": "Gnomeville Chaos Coordinator, Twisted Sisters Café co-owner and Milo's mother",
-    "summary": "Tiffany is a Gnomeville resident, reluctant administrator of nonsense, Chaos Coordinator, mother to Milo, and one of the two owners of Twisted Sisters Café, as described in her @tiffany Chirp biography. She also owns 30% of Rook's Meats alongside Rook's 30% and the former trouser raccoons' combined 40%.",
+    "summary": "Tiffany is a Gnomeville resident, Chaos Coordinator, Milo's mother, and a co-owner of Twisted Sisters Café. Her in-universe human/skeleton/witch hybrid character is Ms. Grey, whose separate entry covers that persona. Tiffany also holds 30% of Rook's Meats, alongside Rook's 30% and the trouser raccoons' combined 40%.",
     "status": "Established"
+  },
+  {
+    "name": "Penelope Tideswell",
+    "species": "Not publicly established",
+    "role": "Romance novelist",
+    "summary": "Penelope Tideswell is a romance novelist whose Chirp account @PenelopeTideswell discusses writing advice and literary news. Her public interests include longing glances, dramatic weather, and inconveniently timed confessions. Further personal information has not been established for publication.",
+    "status": "Established"
+  },
+  {
+    "name": "Milford P. Kin",
+    "species": "Not yet established",
+    "role": "Seasonal visitor and father",
+    "summary": "Milford P. Kin is a seasonal Gnomeville visitor, known from Chirp as @MilfordPKin. He has two known children, Buford and Hubert. Milford brought Buford to Gnomeville for Halloween festivities; Hubert mysteriously followed a few weeks later. His appearance and further physical details await confirmation from the visual record.",
+    "status": "Established",
+    "aliases": [
+      "Milford"
+    ]
+  },
+  {
+    "name": "Twisted Sisters Café",
+    "species": "Institution / café",
+    "role": "Independent café and Gnomeville gathering place",
+    "summary": "Twisted Sisters Café is an independently owned Gnomeville café, advertised on Chirp as 'Great Coffee, Worse Behavior.' Tiffany and her Gnomeville character Ms. Grey are associated with its ownership; it is operated by the Twisted Sisters. It is also the venue of a cake-decorating class reported by Rook.",
+    "status": "Established",
+    "aliases": [
+      "Twisted Sister",
+      "Twisted Sisters Cafe"
+    ]
+  },
+  {
+    "name": "Gnomeville Police Department",
+    "species": "Institution / municipal department",
+    "role": "Municipal law enforcement",
+    "summary": "The Gnomeville Police Department is Gnomeville's official law-enforcement institution, staffed by Detectives Olivia Benson and Elliot Stabler. It maintains a municipal website and the Chirp account @GnomevillePD. The department handles community safety, property matters and reports involving flamingos; residents are advised not to report emergencies via Chirp.",
+    "status": "Established",
+    "aliases": [
+      "Gnomeville Police",
+      "GPD"
+    ]
   }
 ]
