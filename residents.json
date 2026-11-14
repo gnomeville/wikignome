@@ -312,7 +312,7 @@
     "name": "Paw-Paw",
     "species": "Skeleton",
     "role": "Presiding Judge of Gnomeville; Scottish-born Porch resident and seasonal fashion icon",
-    "summary": "Paw-Paw is a Scottish-born skeleton and longtime Porch fixture who was appointed Judge of Gnomeville on October 26, 2026 during the Naskerman Affair. He lived in Scotland until after an unspecified war, emigrated to America and eventually settled in Gnomeville. A friend of Tony the Porch Lizard and Gertie Marrow, he is associated with Bowser the pink skeleton dog, Eugene the glowing skull and Rook, who joined him on a fishing outing. His elaborate seasonal outfits attract neighborhood visitors and photographs. Gertie's precise relationship to him remains unconfirmed; his legal qualifications are likewise undocumented.",
+    "summary": "Paw-Paw is a Scottish-born skeleton and longtime Porch fixture who was appointed Judge of Gnomeville on October 26, 2026 during the Naskerman Affair. He lived in Scotland until after an unspecified war, emigrated to America and eventually settled in Gnomeville. A friend of Tony the Porch Lizard and Gertie Marrow, he is associated with Bowser the pink skeleton dog, Eugene the glowing skull and Rook, who joined him on a fishing outing. His elaborate seasonal outfits attract neighborhood visitors and photographs. Gertie's precise relationship to him remains unconfirmed; his legal qualifications are likewise undocumented. An approved alternative continuity depicts Paw-Paw as Tiffany's deceased husband and Toni's father, retained by the household to cash his Social Security checks; this version belongs to the Gnomeville Multiverse rather than the primary chronology.",
     "status": "Established"
   },
   {
@@ -766,5 +766,19 @@
     ],
     "image": "https://gnomeville.github.io/chirp/assets/toni-avatar.png",
     "imageCaption": "Official Chirp profile image"
+  },
+  {
+    "name": "The Naskerman Affair",
+    "species": "Municipal legal controversy",
+    "role": "October 26, 2026 grievance dispute, Camera 12 surveillance leak and Gazette investigative series",
+    "summary": "On October 26, 2026, Milo Arthur Lestat Naskerman posted three formal grievances against Management on the stairwell: alleged Hartz Delectables shortages, unauthorized hissing following a medication organizer and Friskies Party Mix Pumpkin treats incident, and failure of the Complaint Department to process the first two grievances promptly. Camera 12 footage was leaked, spawning four published Gazette articles. Toni successfully defended Management and was promoted to District Attorney that day. The Gazette also interviewed Milo, who represented himself.",
+    "status": "Established"
+  },
+  {
+    "name": "Gnomeville Multiverse",
+    "species": "Continuity framework",
+    "role": "Approved framework for alternative Gnomeville timelines",
+    "summary": "The Gnomeville Multiverse is an established continuity framework preserving incompatible versions of Gnomeville history without overwriting primary canon. One alternate timeline, provisionally nicknamed the Social Security Timeline, depicts Paw-Paw as Tiffany's deceased husband and Toni's father; the household kept him around to cash his Social Security checks. The precise mechanics of timeline crossings are not yet established.",
+    "status": "Established"
   }
 ]
