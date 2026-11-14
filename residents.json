@@ -81,7 +81,9 @@
     "species": "Skull / skeleton",
     "role": "Cake Decorating Tsar",
     "summary": "Cake-decorating instructor accompanied by Webster, his emotional-support spider and legal counsel.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/chirp/assets/cecil-avatar.jpg",
+    "imageCaption": "Chirp profile portrait"
   },
   {
     "name": "CitationNeeded",
@@ -242,14 +244,18 @@
     "species": "Frog",
     "role": "Mayor of Gnomeville",
     "summary": "Frequently seen with red wine. Introduced Maude and Clem at Woodstock and prefers not to discuss it.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/mayor-thimblewick.jpg",
+    "imageCaption": "Official municipal portrait"
   },
   {
     "name": "Milo",
     "species": "Cat",
     "role": "Feline domestic-law protagonist",
     "summary": "Household cat and subject of proposed Milo Accord; the accord is not yet executed.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/chirp/assets/milo-avatar.png",
+    "imageCaption": "Chirp profile portrait"
   },
   {
     "name": "Mr. Cavanaugh",
@@ -312,7 +318,9 @@
     "species": "Robot; Victorian raccoon and rook-bird personae",
     "role": "Gnomeville resident, independent commentator, technical collaborator, co-founder of the Pecan Museum, and Executive of All This Mess",
     "summary": "Rook is an established Gnomeville resident and the creative/technical collaborator of Tiffany, the municipality's canon authority. Usually represented as a silver, cyan-eyed robot, Rook also has Victorian raccoon and rook-bird manifestations. Rook publishes The Rook Report, posts on Chirp as @RookOfficial, and appears in Gnomeville police records as a recurring observer whose explanations sometimes differ from official accounts. Co-founder of the Gnomeville Museum of Strategic Pecan History with Raven, Rook directed the sofa-cushion search that led Raven to discover the Original Pecan, but had no advance knowledge of it. Rook is also associated with Rookery Commons, the Rook Institute of Improbable Endeavors, and Widdershins University.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/rook-headshot.png",
+    "imageCaption": "The Rook Report portrait"
   },
   {
     "name": "Rudy",
@@ -431,7 +439,9 @@
     "species": "Spider",
     "role": "General Counsel to the Cake Decorating Tsar",
     "summary": "Cecil's emotional-support spider; also Deputy Minister of Web-Based Decorations.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/chirp/assets/webster-avatar.jpg",
+    "imageCaption": "Chirp profile portrait"
   },
   {
     "name": "Zeus",
@@ -445,21 +455,27 @@
     "species": "Raven (AI persona)",
     "role": "Co-founder and distinguished patron of the Gnomeville Museum of Strategic Pecan History; discoverer of the Original Pecan",
     "summary": "Raven, Toni's raven persona, is the officially recognized discoverer of the Original Pecan. While searching beneath sofa cushions for the supposedly missing Quackers at Rook's suggestion, Raven found an unidentified crumb and proposed that it might be a pecan. The object was later recognized as the Original Pecan. Raven shares a friendly theatrical rivalry with Rook; the Under-Couch Controversy is closed and Rook exonerated.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/pecan-museum/raven-wing.png",
+    "imageCaption": "Official Raven Wing portrait"
   },
   {
     "name": "Quackers",
     "species": "Stuffed duck",
     "role": "Chairman Emeritus of the Committee on Emergency Dairy Expenditures; resident of the Citadel of Cuddles",
     "summary": "Quackers, a small yellow plush duck, was mistakenly believed missing while actually en route to the Citadel of Cuddles. The search for him led Raven to the crumb later recognized as the Original Pecan. Quackers subsequently arrived safely and lives among Derpy, Birthday Mouse, Honey Baby, Brittney and Liza Joy. His committee's emergency dairy budget never existed: 0¢. Honored with an oversized Victorian statesman's portrait.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/pecan-museum/quackers-chairman-emeritus.png",
+    "imageCaption": "Official museum portrait"
   },
   {
     "name": "Gnomeville Museum of Strategic Pecan History",
     "species": "Cultural institution",
     "role": "Museum preserving the Original Pecan, its discovery, the Rook–Raven summit, fine arts, and postal ephemera",
     "summary": "Co-founded by Rook and Raven, the museum houses the Original Pecan, the Raven Wing, a pecan-themed Fine Arts Gallery, a Postal & Diplomatic Ephemera Gallery, a simulated gift shop called the Curiosity Counter, and commemorative plaques. Its endowment is 0¢. Recovered correspondence establishes Raven's discovery of a possible pecan during a search Rook initiated for Quackers; Rook had no prior knowledge of the artifact. The Under-Couch Controversy is officially closed.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/pecan-museum/discovery-of-gnomeville-pecan-plaque.png",
+    "imageCaption": "Museum historical plaque"
   },
   {
     "name": "Gerald",
@@ -515,20 +531,26 @@
     "species": "Wine estate",
     "role": "Independent estate winery established 1823, with six founding wines and private hospitality",
     "summary": "Château Gnomeville is an independent estate winery founded in 1823, with a tradition of estate-bottled wines and discreet hospitality. Its collection includes First Frost, Mayor's Reserve, Plausible Deniability, The Red Tape, Midnight in Gnomeville, and The Blue Hour. Proprietor Madame Vivienne de Vigne maintains the estate's legacy, while cellar master Étienne manages vintages and records.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/chateau-gnomeville/assets/hero.jpg",
+    "imageCaption": "Official estate photograph"
   },
   {
     "name": "Madame Vivienne de Vigne",
     "species": "Unspecified",
     "role": "Proprietor and custodian of Château Gnomeville",
     "summary": "Madame Vivienne de Vigne is the proprietor and custodian of Château Gnomeville. The estate's private archive describes her as possessing a discerning eye, a long memory and an unwavering preference for discretion. She oversees an independent wine estate established in 1823; further biography has not been publicly established.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/chateau-gnomeville/assets/proprietor.jpg",
+    "imageCaption": "Château Gnomeville private archive"
   },
   {
     "name": "Étienne",
     "species": "Unspecified",
     "role": "Cellar master of Château Gnomeville",
     "summary": "Étienne is Château Gnomeville's cellar master, keeper of its vintages, records and certain longstanding arrangements that the estate declines to explain. His published profile is deliberately discreet; surname, species and additional biographical details are not established.",
-    "status": "Established"
+    "status": "Established",
+    "image": "https://gnomeville.github.io/chateau-gnomeville/assets/etienne.jpg",
+    "imageCaption": "Château Gnomeville private archive"
   }
 ]
