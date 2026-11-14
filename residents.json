@@ -302,7 +302,7 @@
     "name": "Paulie Moretti",
     "species": "Flamingo",
     "role": "Moretti grandson, Trattoria della Nonna operator and Mafia-circle associate",
-    "summary": "Paulie Moretti is a flamingo, brother of Vinnie and grandson of Nonna Carmela and Nonno Giuseppe Moretti. He assists Trattoria della Nonna with deliveries and logistics, and is associated with Gnomeville's Mafia circle. His Chirp account @PaulieMoretti jokes that he is Nonna's favorite and corrects Vinnie's Naples geography.",
+    "summary": "Paulie Moretti is a flamingo, brother of Vinnie and grandson of Nonna Carmela and Nonno Giuseppe Moretti. He assists Trattoria della Nonna with deliveries and logistics, and is associated with Gnomeville's Mafia circle. His Chirp account @PaulieMoretti jokes that he is Nonna's favorite and corrects Vinnie's Naples geography. His delivery and logistics work, together with the trattoria's reputation as an unofficial Mafia meeting place, has inspired speculation about the purpose of certain family errands. No particular unlawful activity is established.",
     "status": "Established",
     "aliases": [
       "Paulie"
@@ -450,7 +450,7 @@
     "name": "Vinnie the Flamingo",
     "species": "Flamingo",
     "role": "Moretti grandson, restaurant business representative and member of Gnomeville's Mafia circle",
-    "summary": "Vinnie, a flamingo and brother of Paulie, is grandson of Nonna Carmela and Nonno Giuseppe Moretti. He manages business affairs for Trattoria della Nonna, is associated with the established Mafia circle, and is a longtime friend of Shirley Bell. Vinnie claims to be from Naples, allowing listeners to assume Italy, but actually means Naples, Florida. Since a childhood Thanksgiving play, Nonna has affectionately called him her little turkey; as an adult he wears a turkey costume for her at Thanksgiving. He is honorary uncle to Simon.",
+    "summary": "Vinnie, a flamingo and brother of Paulie, is grandson of Nonna Carmela and Nonno Giuseppe Moretti. He manages business affairs for Trattoria della Nonna, is associated with the established Mafia circle, and is a longtime friend of Shirley Bell. Vinnie claims to be from Naples, allowing listeners to assume Italy, but actually means Naples, Florida. Since a childhood Thanksgiving play, Nonna has affectionately called him her little turkey; as an adult he wears a turkey costume for her at Thanksgiving. He is honorary uncle to Simon. Vinnie's business responsibilities and association with Gnomeville's Mafia circle attract speculation about the family's wider connections. His precise activities and any criminal responsibility are not established.",
     "status": "Established"
   },
   {
@@ -538,21 +538,21 @@
     "name": "Trattoria della Nonna",
     "species": "Restaurant",
     "role": "Italian family trattoria, established 1926; unofficial meeting place of Gnomeville's Mafia circle",
-    "summary": "Also called Nonna's Trattoria, this beloved restaurant at 14 Garlic Lane, Gnomeville, is run by Nonna Carmela Moretti and her family. Motto: 'Come for the pasta. Stay because Nonna won't let you leave.' Its imagery and geography resemble Italy, while directions insist it is in Gnomeville; staff refuse to clarify. Vinnie handles business affairs and Paulie assists operations. The restaurant publicly serves exceptional Italian food and unofficially functions as a meeting place for the Mafia circle; the family disclaims financial involvement in that organization.",
+    "summary": "Also called Nonna's Trattoria, this beloved restaurant at 14 Garlic Lane, Gnomeville, is run by Nonna Carmela Moretti and her family. Motto: 'Come for the pasta. Stay because Nonna won't let you leave.' Its imagery and geography resemble Italy, while directions insist it is in Gnomeville; staff refuse to clarify. Vinnie handles business affairs and Paulie assists operations. The restaurant publicly serves exceptional Italian food and unofficially functions as a meeting place for the Mafia circle; the family disclaims financial involvement in that organization. The trattoria's reputation as an unofficial meeting place for the shadowy Gnomeville Mafia is widely discussed. The Morettis disclaim financial involvement; the precise relationship between the establishment and the organization remains unverified.",
     "status": "Established"
   },
   {
     "name": "Nonna Carmela Moretti",
     "species": "Gnome",
     "role": "Matriarch, proprietor and commanding cook of Trattoria della Nonna",
-    "summary": "A formidable Italian gnome approximately 14 inches tall, usually in black dress and apron. Nonna Carmela rules her kitchen and family with a wooden spoon or rolling pin, feeds friends and adversaries alike, and insists nobody insults the sauce or asks what is in the basement. Married to Nonno Giuseppe, a flamingo, she is grandmother to Vinnie and Paulie. She adores Shirley Bell and calls Vinnie her little turkey, a nickname dating to his childhood Thanksgiving play.",
+    "summary": "A formidable Italian gnome approximately 14 inches tall, usually in black dress and apron. Nonna Carmela rules her kitchen and family with a wooden spoon or rolling pin, feeds friends and adversaries alike, and insists nobody insults the sauce or asks what is in the basement. Married to Nonno Giuseppe, a flamingo, she is grandmother to Vinnie and Paulie. She adores Shirley Bell and calls Vinnie her little turkey, a nickname dating to his childhood Thanksgiving play. The trattoria is rumored to be a favored meeting place for Gnomeville's shadowy Mafia circle. Nonna's formidable authority, her strict prohibition on questions about the basement, and her family's many visitors have fueled speculation, but no specific criminal role or conviction is established.",
     "status": "Established"
   },
   {
     "name": "Nonno Giuseppe 'Peppino' Moretti",
     "species": "Flamingo",
     "role": "Moretti patriarch, espresso drinker, card player and unreliable storyteller",
-    "summary": "An elderly flamingo with a magnificent white mustache and flat cap, Nonno is married to Nonna Carmela and is grandfather to Vinnie and Paulie. He actually hails from Naples, Italy, unlike Vinnie, whose 'Naples' is in Florida. He habitually begins stories 'Picture it! Naples, [year]…', then takes detours while Nonna corrects his recollections. His habitual seat is outside Trattoria della Nonna. Exact intervening family generations remain unspecified.",
+    "summary": "An elderly flamingo with a magnificent white mustache and flat cap, Nonno is married to Nonna Carmela and is grandfather to Vinnie and Paulie. He actually hails from Naples, Italy, unlike Vinnie, whose 'Naples' is in Florida. He habitually begins stories 'Picture it! Naples, [year]…', then takes detours while Nonna corrects his recollections. His habitual seat is outside Trattoria della Nonna. Exact intervening family generations remain unspecified. The restaurant's reputation as an unofficial Mafia gathering place has prompted questions about the patriarch's acquaintances and the family business. His actual involvement in organized crime has not been established.",
     "status": "Established"
   },
   {
@@ -683,6 +683,38 @@
       "Rook–Raven Summit",
       "Summit of Rook & Raven",
       "Rook and Raven Summit"
+    ]
+  },
+  {
+    "name": "Squirrel Kings",
+    "species": "Organization / squirrel syndicate",
+    "role": "Suspected Back of the Yards criminal faction",
+    "summary": "The Squirrel Kings are a squirrel faction active around Back of the Yards and suspected of repeated assaults on the GnomeLords, interference with flamingo guards and incidents involving missing flamingo legs and solar panels. Suspicions of peanut or bird-feeder access rackets and acorn warnings circulate, but responsibility for specific attacks remains unproven. Alleged coordination with Milo is unsubstantiated. Captain Nutters has been discussed as a possible leader, but the group's definitive hierarchy has not been established.",
+    "status": "Established",
+    "aliases": [
+      "The Squirrel Kings"
+    ]
+  },
+  {
+    "name": "GnomeLords of Back of the Yards",
+    "species": "Organization / gnome syndicate",
+    "role": "Back of the Yards neighborhood faction",
+    "summary": "The GnomeLords of Back of the Yards are a neighborhood gang or syndicate whose known members include Barry, Seamus the GnomeLord, Fred and Hardrock. The group has endured repeated assaults and the loss or damage of flamingo guards, including missing legs. The Squirrel Kings are suspected but no coordinated attack has been conclusively established. Barry, formerly a greeter, became an honorary member and accountant following his placement in witness protection.",
+    "status": "Established",
+    "aliases": [
+      "GnomeLords",
+      "GnomeLords of Lawnyardale"
+    ]
+  },
+  {
+    "name": "Back of the Yards Gang Conflict",
+    "species": "Historical event / ongoing conflict",
+    "role": "Disputed neighborhood gang conflict",
+    "summary": "The Back of the Yards conflict concerns repeated attacks on the GnomeLords, particularly Barry, Seamus, Fred and Hardrock, and incidents involving flamingo guards with missing legs or damaged solar panels. The Squirrel Kings have been named as suspects, but police have not established responsibility for the attacks or a coordinated conspiracy involving Milo. The precise sequence and full roster of perpetrators remain disputed.",
+    "status": "Established",
+    "aliases": [
+      "Back of the Yards Gang War",
+      "Back of the Yard Gang War"
     ]
   }
 ]
