@@ -9,8 +9,8 @@
   {
     "name": "Barry",
     "species": "Gnome",
-    "role": "Protected witness and honorary GnomeLord",
-    "summary": "Former greeter; became an accountant for the GnomeLords after repeated attacks. Known for mushroom and dandelion risotto.",
+    "role": "Honorary GnomeLord and accountant; protected witness",
+    "summary": "Barry is a gnome, formerly a greeter, who suffered repeated attacks and subsequently entered witness protection. He became an honorary member and accountant for the GnomeLords of Back of the Yards. He is known for making mushroom and dandelion risotto. The identity of his attackers and precise details of his protected relocation are not established.",
     "status": "Established"
   },
   {
@@ -161,8 +161,8 @@
   {
     "name": "Fred",
     "species": "Gnome",
-    "role": "GnomeLord of Lawnyardale",
-    "summary": "Further biography not yet documented.",
+    "role": "GnomeLord of Back of the Yards",
+    "summary": "Fred is a documented member of the GnomeLords of Back of the Yards, whose members have been targeted in a series of disputed neighborhood incidents. The identities of the perpetrators and Fred's further biography have not been established.",
     "status": "Established"
   },
   {
@@ -196,8 +196,8 @@
   {
     "name": "Hardrock",
     "species": "Gnome",
-    "role": "GnomeLord of Lawnyardale",
-    "summary": "Further biography not yet documented.",
+    "role": "GnomeLord of Back of the Yards",
+    "summary": "Hardrock is a documented member of the GnomeLords of Back of the Yards, whose members have been targeted in a series of disputed neighborhood incidents. The identities of the perpetrators and Hardrock's further biography have not been established.",
     "status": "Established"
   },
   {
@@ -365,9 +365,14 @@
   {
     "name": "Seamus A.",
     "species": "Gnome",
-    "role": "GnomeLord of Lawnyardale",
-    "summary": "Rides Eugene Moosey the Highland cow; distinct from Seamus B.",
-    "status": "Established"
+    "role": "GnomeLord of Back of the Yards",
+    "summary": "Seamus is a gnome and documented member of the GnomeLords of Back of the Yards. He rides Eugene Moosey, a Highland cow. He is distinct from Seamus B., a Highland cow associated with another GnomeLord. Further personal history remains undocumented.",
+    "status": "Established",
+    "aliases": [
+      "Seamus the GnomeLord",
+      "Seamus A.",
+      "Seamus"
+    ]
   },
   {
     "name": "Seamus B. (Highland cow)",
@@ -699,7 +704,7 @@
     "name": "GnomeLords of Back of the Yards",
     "species": "Organization / gnome syndicate",
     "role": "Back of the Yards neighborhood faction",
-    "summary": "The GnomeLords of Back of the Yards are a neighborhood gang or syndicate whose known members include Barry, Seamus the GnomeLord, Fred and Hardrock. The group has endured repeated assaults and the loss or damage of flamingo guards, including missing legs. The Squirrel Kings are suspected but no coordinated attack has been conclusively established. Barry, formerly a greeter, became an honorary member and accountant following his placement in witness protection.",
+    "summary": "The GnomeLords of Back of the Yards are a neighborhood gang or syndicate. Their documented roster consists of Seamus the gnome, Fred and Hardrock, plus Barry, an honorary member and the group's accountant. Seamus rides Eugene Moosey the Highland cow; Seamus B. is a different Highland cow and is not established as a gnome member. The group has endured repeated attacks and incidents involving damaged flamingo guards. The Squirrel Kings are suspected in some accounts, but responsibility for specific incidents remains unproven.",
     "status": "Established",
     "aliases": [
       "GnomeLords",
