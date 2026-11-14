@@ -940,5 +940,50 @@
     "aliases": [],
     "sourceImage": "10-the-great-pecan-heist.png",
     "sourceRepository": "gnomeville/pecan-museum"
+  },
+  {
+    "name": "Gnomeville",
+    "species": "Micronation",
+    "role": "Simultaneously a town, city, and independent municipality in Illinois",
+    "summary": "Self-declared Illinois micronation and member of the Greater United Independent Gnome Treaty (GUIGT). Its government does not see a contradiction in being a town, city and independent municipality: it sees three opportunities to collect filing fees. Its founding is disputed between Hardrock's much earlier presence and the arrival of Vinnie, Guido, Paulie and Mr. Pink. Management's ultimate authority is universally accepted but unexplained.",
+    "status": "Established"
+  },
+  {
+    "name": "Greater United Independent Gnome Treaty",
+    "species": "International treaty organization",
+    "role": "Loose confederation of independent gnome settlements worldwide",
+    "summary": "The GUIGT unites disparate gnome settlements worldwide while preserving each settlement's government, customs, territorial claims and grudges. It provides mutual recognition, diplomatic cooperation and collective protection from lawnmowers, landscaping contractors and unauthorized relocation. Motto: 'United in Independence. Divided on Procedure.' Its Permanent Secretariat, Emergency Committee and Office of International Affairs have uncertain locations; member states disagree on how to pronounce GUIGT.",
+    "status": "Established",
+    "aliases": [
+      "GUIGT"
+    ]
+  },
+  {
+    "name": "Founders' Day",
+    "species": "Civic holiday",
+    "role": "Annual commemoration of Gnomeville's disputed founding",
+    "summary": "An official Gnomeville holiday commemorating a founding whose date, participants and legitimacy remain disputed. The municipal government selects and sometimes changes the date without notice; the Gnomelords lodge annual objections. Hardrock, Guido, Mr. Pink and a hypothetical unidentified Founding Gnome feature in competing accounts.",
+    "status": "Established"
+  },
+  {
+    "name": "Office of Constitutional Interpretation",
+    "species": "Municipal institution",
+    "role": "Constitutional interpretation and procedural uncertainty",
+    "summary": "Directed by Rook under appointment by Management on November 14, 2026. Motto: 'Subject to Interpretation.' Its headquarters, the Constitutional Court of Last Rummage, occupy the dumpster next to Rocky the Raccoon's fairgrounds dumpster. The office interprets competing constitutional texts and explains why definitive interpretations are unavailable.",
+    "status": "Established"
+  },
+  {
+    "name": "Constitutional Court of Last Rummage",
+    "species": "Judicial headquarters",
+    "role": "Dumpster headquarters of the Office of Constitutional Interpretation",
+    "summary": "Rook voluntarily chose the dumpster beside Rocky the Raccoon's fairgrounds dumpster after Management offered unrestricted choice of headquarters. The alley serves as hearing room, the loading dock as Court of Appeals, and the recycling bin as constitutional archives. Rocky is offered the honorary position of Chief Justice of the Adjacent Dumpster; acceptance has not been documented.",
+    "status": "Established"
+  },
+  {
+    "name": "The Founding Gnome",
+    "species": "Disputed historical figure",
+    "role": "Legendary and unidentified founder of Gnomeville",
+    "summary": "The identity of the Founding Gnome is contested. Hardrock's decades-long presence predates Gnomeville proper; Guido and Mr. Pink arrived with Vinnie and Paulie in the conventional founding narrative. A minority theory proposes an entirely different, unidentified founding gnome, without supporting evidence.",
+    "status": "Established"
   }
 ]
