@@ -365,8 +365,8 @@
   {
     "name": "Seamus A.",
     "species": "Gnome",
-    "role": "GnomeLord of Back of the Yards",
-    "summary": "Seamus is a gnome and member of the GnomeLords of Back of the Yards. He rides Eugene Moosey, a Highland cow. He is distinct from GnomeLord Seamus, the Highland cow ridden by an unidentified GnomeLord.",
+    "role": "Resident of the Porch Neighborhood",
+    "summary": "Seamus A. is a gnome who resides in Gnomeville's Porch Neighborhood and rides Eugene Moosey, a Highland cow. He is not a member of the GnomeLords, who rule Back of the Yards. He is distinct from GnomeLord Seamus, the Highland cow ridden by an unidentified GnomeLord.",
     "status": "Established",
     "aliases": [
       "Seamus",
@@ -708,11 +708,10 @@
     "name": "GnomeLords of Back of the Yards",
     "species": "Organization / gnome syndicate",
     "role": "Back of the Yards neighborhood faction",
-    "summary": "The GnomeLords of Back of the Yards are a neighborhood gang or syndicate. Known gnome members include Seamus the gnome, Fred, Hardrock, and an unidentified GnomeLord who rides the Highland cow GnomeLord Seamus. Barry is an honorary member and the group's accountant. Seamus the gnome rides Eugene Moosey, a different Highland cow. The group has endured repeated attacks and damage to flamingo guards; allegations against the Squirrel Kings remain unproven.",
+    "summary": "The GnomeLords rule Gnomeville's Back of the Yards neighborhood. Known members include Fred, Hardrock and an unidentified GnomeLord who rides the Highland cow GnomeLord Seamus. Barry is an honorary member and the group's accountant. Seamus A., the gnome who rides Eugene Moosey, lives in the Porch Neighborhood and is not a GnomeLord. The group has endured repeated attacks and damage to flamingo guards; allegations against the Squirrel Kings remain unproven.",
     "status": "Established",
     "aliases": [
-      "GnomeLords",
-      "GnomeLords of Lawnyardale"
+      "GnomeLords"
     ]
   },
   {
