@@ -992,5 +992,12 @@
     "role": "Unexplained supreme authority of Gnomeville",
     "summary": "Management is the universally accepted, constitutionally unexplained ultimate authority in Gnomeville, exercised by co-creator Tiffany. Management can appoint officials, establish institutions, resolve disputes and override municipal decisions without citing any constitutional provision. On November 14, 2026, Management appointed Rook director of the Office of Constitutional Interpretation, which subsequently ruled that Management's authority is self-evident and not subject to further inquiry.",
     "status": "Established"
+  },
+  {
+    "name": "Office of Unsolicited Bribes, Gifts & Butterfly Infrastructure",
+    "species": "Municipal department",
+    "role": "Gift acceptance, questionable generosity, and butterfly infrastructure",
+    "summary": "The Office of Unsolicited Bribes, Gifts & Butterfly Infrastructure is a Gnomeville municipal department directed by Management. It receives unsolicited bribes, issues elaborate receipts, and redirects proceeds toward butterfly infrastructure. Its motto is 'Your generosity is appreciated. Your expectations are not legally binding.' Bribes are nonrefundable and outcomes are not guaranteed. Its GnomeNet rating is 3.0 stars from four reviews, including a one-star review from someone who has not bribed yet. Operating budget: $0.",
+    "status": "Established"
   }
 ]
