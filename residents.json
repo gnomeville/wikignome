@@ -998,6 +998,8 @@
     "species": "Municipal department",
     "role": "Gift acceptance, questionable generosity, and butterfly infrastructure",
     "summary": "The Office of Unsolicited Bribes, Gifts & Butterfly Infrastructure is a Gnomeville municipal department directed by Management. It receives unsolicited bribes, issues elaborate receipts, and redirects proceeds toward butterfly infrastructure. Its motto is 'Your generosity is appreciated. Your expectations are not legally binding.' Bribes are nonrefundable and outcomes are not guaranteed. Its GnomeNet rating is 3.0 stars from four reviews, including a one-star review from someone who has not bribed yet. Operating budget: $0.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/Gnomeville_Bribes_Office_Seal_WikiGnome_Cream.png",
+    "imageCaption": "Official departmental seal: balanced scales bearing coins on both pans."
   }
 ]
