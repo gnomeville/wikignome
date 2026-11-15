@@ -627,8 +627,8 @@
   {
     "name": "Tiffany",
     "species": "Human",
-    "role": "Gnomeville Management, Chaos Coordinator, Twisted Sisters Café co-owner and Milo's mother",
-    "summary": "Tiffany is a Gnomeville resident, Chaos Coordinator, Milo's mother, and a co-owner of Twisted Sisters Café. Her in-universe human/skeleton/witch hybrid character is Ms. Grey, whose separate entry covers that persona. Tiffany also holds 30% of Rook's Meats, alongside Rook's 30% and the trouser raccoons' combined 40%. Known as Management in the Naskerman Affair, she was defended by Toni against Milo's list of grievances; Toni was promoted to District Attorney that day.",
+    "role": "Gnomeville co-creator; Management; Chaos Coordinator; Twisted Sisters Café co-owner; Milo's mother",
+    "summary": "Tiffany is a co-creator of Gnomeville, its Chaos Coordinator and the person known as Management, whose ultimate authority is universally accepted but constitutionally unexplained. She is Milo's mother, co-owner of Twisted Sisters Café and 30% owner of Rook's Meats. Her distinct fictional persona Ms. Grey has a separate article. During the Naskerman Affair, District Attorney Toni successfully defended Management against Milo's grievances and received her promotion that day. See Management for the office and its constitutional standing.",
     "status": "Established"
   },
   {
@@ -984,6 +984,13 @@
     "species": "Disputed historical figure",
     "role": "Legendary and unidentified founder of Gnomeville",
     "summary": "The identity of the Founding Gnome is contested. Hardrock's decades-long presence predates Gnomeville proper; Guido and Mr. Pink arrived with Vinnie and Paulie in the conventional founding narrative. A minority theory proposes an entirely different, unidentified founding gnome, without supporting evidence.",
+    "status": "Established"
+  },
+  {
+    "name": "Management",
+    "species": "Municipal authority",
+    "role": "Unexplained supreme authority of Gnomeville",
+    "summary": "Management is the universally accepted, constitutionally unexplained ultimate authority in Gnomeville, exercised by co-creator Tiffany. Management can appoint officials, establish institutions, resolve disputes and override municipal decisions without citing any constitutional provision. On November 14, 2026, Management appointed Rook director of the Office of Constitutional Interpretation, which subsequently ruled that Management's authority is self-evident and not subject to further inquiry.",
     "status": "Established"
   }
 ]
