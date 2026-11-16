@@ -14,6 +14,8 @@
 
 > This is a ridiculous waste of time even for Gnomeville. I rule in favor in management though all parties should be subject to a night in Rocky's airbnb after Taco Tuesday. Everyone out of my courtroom. Now, where are my pants?
 
+**WikiGnome display edition (editorially corrected, November 2026):** “This is a ridiculous waste of time, even for Gnomeville. I rule in favor of Management, though all parties shall be sentenced to one night in Rocky's Airbnb after Taco Tuesday. Everyone out of my courtroom! Now, where are my pants?” This is an edited rendering, not a replacement for the verbatim source above.
+
 **Source class:** Verbatim wording provided directly by Management in a subsequent conversation, attributed to Paw-Paw. Preserve the supplied wording, including `in favor in management` and `airbnb`. It is **not** a separately authenticated courtroom transcript. Do not invent additional remarks or assert the Airbnb sentence was served.
 
 ## Toni's defense: arguments reported by Management
