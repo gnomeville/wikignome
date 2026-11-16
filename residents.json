@@ -789,7 +789,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "rook-raven-summit.webp",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/rook-raven-summit.webp",
+    "imageCaption": "The First Summit — archived museum gallery artwork"
   },
   {
     "name": "The Patron and His Outstanding Balance",
@@ -799,7 +801,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "patron-outstanding-balance.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/patron-outstanding-balance.png",
+    "imageCaption": "The Patron and His Outstanding Balance — archived museum gallery artwork"
   },
   {
     "name": "The Grand Delegation",
@@ -809,7 +813,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "three-rooks-and-raven-summit-stamp-004.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/three-rooks-and-raven-summit-stamp-004.png",
+    "imageCaption": "The Grand Delegation — archived museum gallery artwork"
   },
   {
     "name": "The Diplomatic Encounter",
@@ -819,7 +825,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "raccoon-rook-and-raven-summit-stamp-002.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/raccoon-rook-and-raven-summit-stamp-002.png",
+    "imageCaption": "The Diplomatic Encounter — archived museum gallery artwork"
   },
   {
     "name": "The Mechanical Delegation",
@@ -829,7 +837,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "robot-rook-and-raven-summit-stamp-003.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/robot-rook-and-raven-summit-stamp-003.png",
+    "imageCaption": "The Mechanical Delegation — archived museum gallery artwork"
   },
   {
     "name": "The Avian Accord",
@@ -839,7 +849,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "rook-and-raven-summit-stamp-001.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/rook-and-raven-summit-stamp-001.png",
+    "imageCaption": "The Avian Accord — archived museum gallery artwork"
   },
   {
     "name": "The Discovery of the Sacred Pecan",
@@ -849,7 +861,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "01-discovery-of-the-sacred-pecan.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/01-discovery-of-the-sacred-pecan.png",
+    "imageCaption": "The Discovery of the Sacred Pecan — archived museum gallery artwork"
   },
   {
     "name": "Ceci n’est pas une noix",
@@ -859,7 +873,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "02-this-is-not-a-pecan.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/02-this-is-not-a-pecan.png",
+    "imageCaption": "Ceci n’est pas une noix — archived museum gallery artwork"
   },
   {
     "name": "The Pecan, Deconstructed",
@@ -869,7 +885,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "03-the-pecan-deconstructed.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/03-the-pecan-deconstructed.png",
+    "imageCaption": "The Pecan, Deconstructed — archived museum gallery artwork"
   },
   {
     "name": "Starry, Starry Nut",
@@ -879,7 +897,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "04-starry-starry-nut.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/04-starry-starry-nut.png",
+    "imageCaption": "Starry, Starry Nut — archived museum gallery artwork"
   },
   {
     "name": "The Persistence of Pecan",
@@ -889,7 +909,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "05-the-persistence-of-pecan.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/05-the-persistence-of-pecan.png",
+    "imageCaption": "The Persistence of Pecan — archived museum gallery artwork"
   },
   {
     "name": "Raven with a Pecan Earring",
@@ -899,7 +921,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "06-raven-with-a-pecan-earring.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/06-raven-with-a-pecan-earring.png",
+    "imageCaption": "Raven with a Pecan Earring — archived museum gallery artwork"
   },
   {
     "name": "The Pecan Incident, 2026",
@@ -909,7 +933,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "07-the-pecan-incident.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/07-the-pecan-incident.png",
+    "imageCaption": "The Pecan Incident, 2026 — archived museum gallery artwork"
   },
   {
     "name": "THE PECAN™",
@@ -919,7 +945,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "08-the-pecan-trademark.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/08-the-pecan-trademark.png",
+    "imageCaption": "THE PECAN™ — archived museum gallery artwork"
   },
   {
     "name": "The Pecan Bearer",
@@ -929,7 +957,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "09-the-pecan-bearer.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/09-the-pecan-bearer.png",
+    "imageCaption": "The Pecan Bearer — archived museum gallery artwork"
   },
   {
     "name": "The Great Pecan Heist",
@@ -939,7 +969,9 @@
     "status": "Established",
     "aliases": [],
     "sourceImage": "10-the-great-pecan-heist.png",
-    "sourceRepository": "gnomeville/pecan-museum"
+    "sourceRepository": "gnomeville/pecan-museum",
+    "image": "assets/museum-artwork/10-the-great-pecan-heist.png",
+    "imageCaption": "The Great Pecan Heist — archived museum gallery artwork"
   },
   {
     "name": "Gnomeville",
