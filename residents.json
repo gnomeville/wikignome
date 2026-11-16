@@ -520,21 +520,27 @@
     "species": "Raccoon",
     "role": "Eldest of the former trouser raccoons; self-appointed executive at Rook's Meats",
     "summary": "Gerald once lived in Rook's trousers alongside Arthur and Pickles. The three relocated to the Quackhouse above the garage with Bureaucratic Duck. Monocle-wearing and fiercely ambitious, Gerald calls himself an executive, and his Chirp profile @GeraldTheMagnificent identifies him as executive producer and founder of Rook's Meats. The three raccoons jointly hold 40% of that business, while Rook and Tiffany own 30% each. His ambitions include dubious financial practices, though no conviction is established.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/portraits/gerald-portrait.png",
+    "imageCaption": "Gerald, official Rook's Meats portrait"
   },
   {
     "name": "Arthur",
     "species": "Raccoon",
     "role": "Middle trouser raccoon; cannoli enthusiast and Rook's Meats operator",
     "summary": "Arthur formerly lived in Rook's trousers with Gerald and Pickles, before moving into the Quackhouse above the garage. He considers trousers a government conspiracy, is devoted to cannoli, and has a reputation for wheelbarrow incidents and eating without paying. A co-owner within the raccoons' combined 40% interest in Rook's Meats, Arthur has been associated with quality control. His food-handling standards remain a subject of local concern.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/portraits/arthur-portrait.png",
+    "imageCaption": "Arthur, official Rook's Meats portrait"
   },
   {
     "name": "Pickles",
     "species": "Raccoon",
     "role": "Youngest trouser raccoon; gambler, collector of other people's property, and aspiring media mogul",
     "summary": "Pickles is the youngest of Gerald, Arthur and Pickles, three raccoon brothers who knowingly rented space in Rook's worn trousers in exchange for bottle caps. Pickles reportedly stole Rook's pocket watch and is known for gambling, kleptomania and media ambitions. He now lives in the Quackhouse with his brothers and Bureaucratic Duck, to whom he owes $47 and a paperclip. The brothers jointly own 40% of Rook's Meats.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/portraits/pickles-portrait.png",
+    "imageCaption": "Pickles, official Rook's Meats portrait"
   },
   {
     "name": "Bureaucratic Duck",
