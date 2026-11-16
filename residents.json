@@ -255,7 +255,7 @@
     "name": "Milo Arthur Lestat Naskerman",
     "species": "Cat",
     "role": "Feline domestic-law protagonist",
-    "summary": "Milo Arthur Lestat Naskerman, First of his name, DDS., MD., BBQ., RSTQMNE, is Gnomeville's independent feline and tenant advocate. Known affectionately as Milo Chicken, he is the cherished cat of Tiffany, and maintains the Chirp account @MiloChicken. His full name and mock credentials were documented in his October 2026 email signature.",
+    "summary": "Milo Arthur Lestat Naskerman, First of his name, DDS., MD., BBQ., RSTQMNE, is Gnomeville's independent feline and tenant advocate. Known affectionately as Milo Chicken, he is the cherished cat of Tiffany, and maintains the Chirp account @MiloChicken. His full name and mock credentials were documented in his October 2026 email signature. He also has an extensive film career starring in the Gnomeflix collection, sometimes portraying multiple principal characters within the same production.",
     "status": "Established",
     "image": "https://gnomeville.github.io/chirp/assets/milo-avatar.png",
     "imageCaption": "Chirp profile portrait",
@@ -312,7 +312,7 @@
     "name": "Paw-Paw",
     "species": "Skeleton",
     "role": "Presiding Judge of Gnomeville; Scottish-born Porch resident and seasonal fashion icon",
-    "summary": "Paw-Paw is a Scottish-born skeleton and longtime Porch fixture who was appointed Judge of Gnomeville on October 26, 2026 during the Naskerman Affair. He lived in Scotland until after an unspecified war, emigrated to America and eventually settled in Gnomeville. A friend of Tony the Porch Lizard and Gertie Marrow, he is associated with Bowser the pink skeleton dog, Eugene the glowing skull and Rook, who joined him on a fishing outing. His elaborate seasonal outfits attract neighborhood visitors and photographs. Gertie's precise relationship to him remains unconfirmed; his legal qualifications are likewise undocumented. An approved alternative continuity depicts Paw-Paw as Tiffany's deceased husband and Toni's father, retained by the household to cash his Social Security checks; this version belongs to the Gnomeville Multiverse rather than the primary chronology.",
+    "summary": "Paw-Paw is a Scottish-born skeleton and longtime Porch fixture who was appointed Judge of Gnomeville on October 26, 2026 during the Naskerman Affair. He lived in Scotland until after an unspecified war, emigrated to America and eventually settled in Gnomeville. A friend of Tony the Porch Lizard and Gertie Marrow, he is associated with Bowser the pink skeleton dog, Eugene the glowing skull and Rook, who joined him on a fishing outing. His elaborate seasonal outfits attract neighborhood visitors and photographs. Gertie's precise relationship to him remains unconfirmed; his legal qualifications are likewise undocumented. An approved alternative continuity depicts Paw-Paw as Tiffany's deceased husband and Toni's father, retained by the household to cash his Social Security checks; this version belongs to the Gnomeville Multiverse rather than the primary chronology. He is also credited as filmmaker Paw-Paw Kubrick on several Gnomeflix posters.",
     "status": "Established"
   },
   {
@@ -1048,5 +1048,117 @@
     "status": "Established",
     "image": "assets/locations/rooks-meats-storefront.png",
     "imageCaption": "Rook's Meats storefront, with Gerald at the entrance"
+  },
+  {
+    "name": "Gnomeflix",
+    "species": "Streaming service",
+    "role": "Gnomeville's fictional film streaming service",
+    "summary": "Gnomeflix is Gnomeville's streaming service and home to the Milo Chicken film collection. Its catalog includes fourteen poster-documented films, including the forthcoming Claw II. The platform presents film listings rather than playable motion pictures.",
+    "status": "Established"
+  },
+  {
+    "name": "Gnomeville Pictures",
+    "species": "Film studio",
+    "role": "Film production company",
+    "summary": "Gnomeville Pictures is a film studio credited on multiple Gnomeville film posters. Its productions and associated talent are documented in the Gnomeflix film catalog and WikiGnome's poster-source research index.",
+    "status": "Established"
+  },
+  {
+    "name": "Claw II",
+    "species": "Film",
+    "role": "Action film · Coming soon",
+    "summary": "Claw II is a action film in the Gnomeflix collection, represented by its original promotional poster. Coming soon. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "The Pawfather",
+    "species": "Film",
+    "role": "Crime film",
+    "summary": "The Pawfather is a crime film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "A Nightmare in Gnomeville",
+    "species": "Film",
+    "role": "Horror film",
+    "summary": "A Nightmare in Gnomeville is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "The Doors",
+    "species": "Film",
+    "role": "Drama film",
+    "summary": "The Doors is a drama film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Psycho",
+    "species": "Film",
+    "role": "Thriller film",
+    "summary": "Psycho is a thriller film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Nosfercatu",
+    "species": "Film",
+    "role": "Horror film",
+    "summary": "Nosfercatu is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Army of Catness",
+    "species": "Film",
+    "role": "Horror film",
+    "summary": "Army of Catness is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Heat",
+    "species": "Film",
+    "role": "Crime film",
+    "summary": "Heat is a crime film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Milo Hood: Cats in Tights",
+    "species": "Film",
+    "role": "Comedy film",
+    "summary": "Milo Hood: Cats in Tights is a comedy film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Interview with the Catpire",
+    "species": "Film",
+    "role": "Fantasy film",
+    "summary": "Interview with the Catpire is a fantasy film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "The Cating",
+    "species": "Film",
+    "role": "Horror film",
+    "summary": "The Cating is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "A Catwork Orange",
+    "species": "Film",
+    "role": "Crime film",
+    "summary": "A Catwork Orange is a crime film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Gone with the Hiss",
+    "species": "Film",
+    "role": "Romance film",
+    "summary": "Gone with the Hiss is a romance film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
+  },
+  {
+    "name": "Milo",
+    "species": "Film",
+    "role": "Horror film",
+    "summary": "Milo is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
+    "status": "Established"
   }
 ]
