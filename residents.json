@@ -1068,97 +1068,125 @@
     "species": "Film",
     "role": "Action film · Coming soon",
     "summary": "Claw II is a action film in the Gnomeflix collection, represented by its original promotional poster. Coming soon. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010915.webp",
+    "imageCaption": "Original Claw II promotional poster · Gnomeville film archive"
   },
   {
     "name": "The Pawfather",
     "species": "Film",
     "role": "Crime film",
     "summary": "The Pawfather is a crime film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010918.webp",
+    "imageCaption": "Original The Pawfather promotional poster · Gnomeville film archive"
   },
   {
     "name": "A Nightmare in Gnomeville",
     "species": "Film",
     "role": "Horror film",
     "summary": "A Nightmare in Gnomeville is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010919.webp",
+    "imageCaption": "Original A Nightmare in Gnomeville promotional poster · Gnomeville film archive"
   },
   {
     "name": "The Doors",
     "species": "Film",
     "role": "Drama film",
     "summary": "The Doors is a drama film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010923.webp",
+    "imageCaption": "Original The Doors promotional poster · Gnomeville film archive"
   },
   {
     "name": "Psycho",
     "species": "Film",
     "role": "Thriller film",
     "summary": "Psycho is a thriller film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010925.webp",
+    "imageCaption": "Original Psycho promotional poster · Gnomeville film archive"
   },
   {
     "name": "Nosfercatu",
     "species": "Film",
     "role": "Horror film",
     "summary": "Nosfercatu is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010929.webp",
+    "imageCaption": "Original Nosfercatu promotional poster · Gnomeville film archive"
   },
   {
     "name": "Army of Catness",
     "species": "Film",
     "role": "Horror film",
     "summary": "Army of Catness is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010930.webp",
+    "imageCaption": "Original Army of Catness promotional poster · Gnomeville film archive"
   },
   {
     "name": "Heat",
     "species": "Film",
     "role": "Crime film",
     "summary": "Heat is a crime film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010931.webp",
+    "imageCaption": "Original Heat promotional poster · Gnomeville film archive"
   },
   {
     "name": "Milo Hood: Cats in Tights",
     "species": "Film",
     "role": "Comedy film",
     "summary": "Milo Hood: Cats in Tights is a comedy film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010934.webp",
+    "imageCaption": "Original Milo Hood: Cats in Tights promotional poster · Gnomeville film archive"
   },
   {
     "name": "Interview with the Catpire",
     "species": "Film",
     "role": "Fantasy film",
     "summary": "Interview with the Catpire is a fantasy film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010935.webp",
+    "imageCaption": "Original Interview with the Catpire promotional poster · Gnomeville film archive"
   },
   {
     "name": "The Cating",
     "species": "Film",
     "role": "Horror film",
     "summary": "The Cating is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010938.webp",
+    "imageCaption": "Original The Cating promotional poster · Gnomeville film archive"
   },
   {
     "name": "A Catwork Orange",
     "species": "Film",
     "role": "Crime film",
     "summary": "A Catwork Orange is a crime film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010940.webp",
+    "imageCaption": "Original A Catwork Orange promotional poster · Gnomeville film archive"
   },
   {
     "name": "Gone with the Hiss",
     "species": "Film",
     "role": "Romance film",
     "summary": "Gone with the Hiss is a romance film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010943.webp",
+    "imageCaption": "Original Gone with the Hiss promotional poster · Gnomeville film archive"
   },
   {
     "name": "Milo",
     "species": "Film",
     "role": "Horror film",
     "summary": "Milo is a horror film in the Gnomeflix collection, represented by its original promotional poster. Cast and crew credits are documented from the poster; no release date is assigned.",
-    "status": "Established"
+    "status": "Established",
+    "image": "assets/films/1000010945.webp",
+    "imageCaption": "Original Milo promotional poster · Gnomeville film archive"
   }
 ]
