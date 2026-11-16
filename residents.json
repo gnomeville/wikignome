@@ -1039,5 +1039,14 @@
     "status": "Established",
     "image": "assets/Gnomeville_Bribes_Office_Seal_WikiGnome_Cream.png",
     "imageCaption": "Official departmental seal: balanced scales bearing coins on both pans."
+  },
+  {
+    "name": "Rook's Meats",
+    "species": "Business",
+    "role": "Gnomeville butcher shop and delicatessen",
+    "summary": "Rook's Meats is a Gnomeville butcher shop and delicatessen associated with Rook and the former trouser raccoons Gerald, Arthur and Pickles. Rook and Tiffany each hold a 30% ownership stake, while the three brothers jointly hold 40%. Its storefront bears the slogan 'We've Got the Biggest Sausage in Gnomeville!' and a sign claiming establishment in 1921; the historical founding date has not been independently verified.",
+    "status": "Established",
+    "image": "assets/locations/rooks-meats-storefront.png",
+    "imageCaption": "Rook's Meats storefront, with Gerald at the entrance"
   }
 ]
