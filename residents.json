@@ -1053,7 +1053,7 @@
     "name": "Gnomeflix",
     "species": "Streaming service",
     "role": "Gnomeville's fictional film streaming service",
-    "summary": "Gnomeflix is Gnomeville's streaming service and home to the Milo Chicken film collection. Its catalog includes fourteen poster-documented films, including the forthcoming Claw II. The platform presents film listings rather than playable motion pictures.",
+    "summary": "Gnomeflix is Gnomeville's streaming service and home to the Milo Chicken film collection and original productions including Home for the Hollandaise. Its catalog includes fourteen poster-documented films, including the forthcoming Claw II. The platform presents film listings rather than playable motion pictures.",
     "status": "Established"
   },
   {
@@ -1188,5 +1188,36 @@
     "status": "Established",
     "image": "assets/films/1000010945.webp",
     "imageCaption": "Original Milo promotional poster · Gnomeville film archive"
+  },
+  {
+    "name": "Margaux de Vigne",
+    "species": "Fox",
+    "role": "Actress; star of Home for the Hollandaise",
+    "summary": "Margaux de Vigne is a Gnomeville actress and niece of Château Gnomeville proprietor Madame Vivienne de Vigne. Vivienne helped secure her first audition, but Margaux earned the role and has worked to establish her own reputation. She plays Clara Maplewood in the Gnomeflix Thanksgiving romance Home for the Hollandaise, opposite Theodore “Theo” Brookstone.",
+    "status": "Established",
+    "image": "assets/portraits/margaux-de-vigne-official-portrait.png",
+    "imageCaption": "Approved studio portrait of Margaux de Vigne"
+  },
+  {
+    "name": "Theodore “Theo” Brookstone",
+    "species": "River otter",
+    "role": "Actor; star of Home for the Hollandaise",
+    "summary": "Theodore “Theo” Brookstone is a Gnomeville actor who was cast opposite Margaux de Vigne in the Thanksgiving romance Home for the Hollandaise following the dismissal of original co-star Milo. A relative newcomer with regional theatre and advertising experience, he portrays Clara Maplewood's hometown carpenter love interest. His appearance is documented in an approved studio portrait.",
+    "status": "Established",
+    "aliases": [
+      "Theo Brookstone",
+      "Theodore Brookstone"
+    ],
+    "image": "assets/portraits/theodore-brookstone-official-portrait.png",
+    "imageCaption": "Approved studio portrait of Theodore Brookstone"
+  },
+  {
+    "name": "Home for the Hollandaise",
+    "species": "Film",
+    "role": "Gnomeflix Thanksgiving romance",
+    "summary": "Home for the Hollandaise is a Gnomeflix Original Movie starring Margaux de Vigne as Clara Maplewood and Theodore “Theo” Brookstone as her hometown carpenter love interest. Milo appeared on an early promotional poster but was dismissed amid publicity concerning an ongoing criminal investigation. The replacement cast is featured on the official poster. No release date is established.",
+    "status": "Established",
+    "image": "assets/films/home-for-the-hollandaise-official-poster.png",
+    "imageCaption": "Official poster featuring Margaux de Vigne and Theodore Brookstone"
   }
 ]
